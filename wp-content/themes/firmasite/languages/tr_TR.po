@@ -1,0 +1,3362 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FirmaSite v1.4.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: Fri Oct 17 2014 23:47:49 GMT+0300 (GTB Daylight Time)\n"
+"Last-Translator: admin <unsalkorkmaz@gmail.com>\n"
+"Language-Team: \n"
+"Language: Turkish\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes\n"
+"X-Loco-Target-Locale: tr_TR"
+
+#: buddypress/activity/entry.php:48
+msgid "View Conversation"
+msgstr "Sohbeti Göster"
+
+#: buddypress/activity/index.php:78
+#: buddypress/groups/single/activity.php:9
+#: buddypress/members/single/activity.php:20
+msgid "&mdash; Everything &mdash;"
+msgstr "&mdash; Her şey &mdash;"
+
+#: buddypress/groups/create.php:151
+#: buddypress/groups/single/admin.php:132
+msgid ""
+"Upload an image to use as a profile photo for this group. The image will be "
+"shown on the main group page, and in search results."
+msgstr ""
+
+#: buddypress/groups/create.php:159
+msgid "To skip the group profile photo upload process, hit the \"Next Step\" button."
+msgstr ""
+
+#: buddypress/groups/create.php:166
+msgid "Crop Group Profile Photo"
+msgstr ""
+
+#: buddypress/groups/create.php:168
+#: buddypress/groups/single/admin.php:156
+msgid "Profile photo to crop"
+msgstr ""
+
+#: buddypress/groups/create.php:171
+#: buddypress/groups/single/admin.php:159
+msgid "Profile photo preview"
+msgstr ""
+
+#: buddypress/groups/create.php:248
+msgid ""
+"Once you have built up friend connections you will be able to invite others "
+"to your group."
+msgstr ""
+
+#: buddypress/groups/single/admin.php:31
+msgid "Notify group members of these changes via email"
+msgstr ""
+
+#: buddypress/groups/single/admin.php:142
+msgid ""
+"If you'd like to remove the existing group profile photo but not upload a "
+"new one, please use the delete group profile photo button."
+msgstr ""
+
+#: buddypress/groups/single/admin.php:144
+msgid "Delete Group Profile Photo"
+msgstr ""
+
+#: buddypress/groups/single/admin.php:154
+msgid "Crop Profile Photo"
+msgstr ""
+
+#: buddypress/members/activate.php:17
+#, php-format
+msgid ""
+"Your account was activated successfully! You can now <a href=\"%s\">log in</a> "
+"with the username and password you provided when you signed up."
+msgstr ""
+
+#: buddypress/members/register.php:100
+#: buddypress/members/single/profile/edit.php:37
+msgctxt "Change profile field visibility level"
+msgid "Change"
+msgstr ""
+
+#: buddypress/members/single/notifications/feedback-no-notifications.php:7
+msgid "You have no unread notifications."
+msgstr ""
+
+#: buddypress/members/single/notifications/feedback-no-notifications.php:11
+msgid "This member has no unread notifications."
+msgstr ""
+
+#: buddypress/members/single/notifications/feedback-no-notifications.php:19
+msgid "You have no notifications."
+msgstr ""
+
+#: buddypress/members/single/notifications/feedback-no-notifications.php:23
+msgid "This member has no notifications."
+msgstr ""
+
+#: buddypress/members/single/notifications/notifications-loop.php:6
+msgid "Notification"
+msgstr ""
+
+#: buddypress/members/single/notifications/notifications-loop.php:7
+msgid "Date Received"
+msgstr ""
+
+#: buddypress/members/single/notifications/notifications-loop.php:8
+msgid "Actions"
+msgstr ""
+
+#: buddypress/members/single/profile/change-avatar.php:1
+msgid "Change Profile Photo"
+msgstr ""
+
+#: buddypress/members/single/profile/change-avatar.php:7
+msgid ""
+"Your profile photo will be used on your profile and throughout the site. If "
+"there is a <a href=\"http://gravatar.com\">Gravatar</a> associated with your "
+"account email we will use that, or you can upload an image from your "
+"computer."
+msgstr ""
+
+#: buddypress/members/single/profile/change-avatar.php:23
+msgid ""
+"If you'd like to delete your current profile photo but not upload a new one, "
+"please use the delete profile photo button."
+msgstr ""
+
+#: buddypress/members/single/profile/change-avatar.php:24
+msgid "Delete Profile Photo"
+msgstr ""
+
+#: buddypress/members/single/profile/change-avatar.php:24
+msgid "Delete My Profile Photo"
+msgstr ""
+
+#: buddypress/members/single/profile/change-avatar.php:31
+msgid "Crop Your New Profile Photo"
+msgstr ""
+
+#: buddypress/members/single/profile/change-avatar.php:33
+msgid "Profile Photo to crop"
+msgstr ""
+
+#: buddypress/members/single/profile/change-avatar.php:36
+msgid "Profile Photo preview"
+msgstr ""
+
+#: buddypress/members/single/profile/change-avatar.php:55
+msgid ""
+"Your profile photo will be used on your profile and throughout the site. To "
+"change your profile photo, please create an account with <a href=\"http:"
+"//gravatar.com\">Gravatar</a> using the same email address as you used to "
+"register with this site."
+msgstr ""
+
+#: buddypress/members/single/settings/notifications.php:6
+msgid "Send an email notice when:"
+msgstr ""
+
+#: buddypress/members/single/settings/profile.php:15
+msgid "Visibility"
+msgstr ""
+
+#: buddypress/members/single/settings/profile.php:42
+msgid "Save Settings"
+msgstr ""
+
+#: functions/buddypress-customs.php:298
+msgid "Oldest"
+msgstr ""
+
+#: functions/buddypress-customs.php:301
+msgid "Group Activity"
+msgstr ""
+
+#: functions/buddypress-functions.php:63
+msgid "FirmaSite"
+msgstr ""
+
+#: functions/buddypress-functions.php:241
+msgid "Are you sure you want to leave this group?"
+msgstr ""
+
+#: functions/buddypress-functions.php:249
+msgid ""
+"Your profile has unsaved changes. If you leave the page, the changes will be "
+"lost."
+msgstr ""
+
+#: functions/buddypress-functions.php:727
+msgid "There was a problem posting your update; please try again."
+msgstr ""
+
+#: functions/buddypress-functions.php:1056
+#, php-format
+msgid ""
+"%s has previously requested to join this group. Sending an invitation will "
+"automatically add the member to the group."
+msgstr ""
+
+#: functions/promotionbar.php:309
+msgid "Remove Promotion Bar"
+msgstr ""
+
+#: functions/buddypress-functions.php:248
+#, php-format
+msgid "Show all %d comments"
+msgstr "Tüm yorumları göster"
+
+#: functions/customizer-call.php:80
+msgid "Darkly"
+msgstr "Darkly"
+
+#: functions/customizer-call.php:84
+msgid "Lumen"
+msgstr "Lumen"
+
+#: functions/customizer-call.php:85
+msgid "Paper"
+msgstr "Paper"
+
+#: functions/customizer-call.php:87
+msgid "Sandstone"
+msgstr "Sandstone"
+
+#: functions/customizer-call.php:91
+msgid "Superhero"
+msgstr "Superhero"
+
+#: functions/honeypot.php:13
+#: functions/honeypot.php:28
+#: functions/honeypot.php:43
+#: functions/honeypot.php:62
+msgid "You filled out a form field that was created to stop spammers."
+msgstr "Spam yapanları durdurmak için oluşturulan form kısmını doldurdunuz."
+
+#: functions/infinite-scroll.php:20
+msgid "Activate Infinite Scroll"
+msgstr "Sınırsız Kaydırmayı Etkinleştir"
+
+#: functions/infinite-scroll.php:26
+msgid ""
+"Instead of having to click a link to get to the next set of posts, infinite "
+"scrolling pulls the next posts automatically into view when the reader "
+"approaches the bottom of the page."
+msgstr ""
+"Bir bağlantıya tıklayıp bir sonraki içeriği almaktansa, Sınırsız Kaydırma "
+"özelliği sayesinde ziyaretçi sayfa sonuna yaklaştığında bir sonraki içerik "
+"otomatik olarak yüklenecektir."
+
+#: functions/infinite-scroll.php:73
+msgid "All content loaded."
+msgstr "Tüm içerik yüklendi."
+
+#: functions/infinite-scroll.php:75
+msgid "Loading..."
+msgstr "Yükleniyor..."
+
+#: functions/init.php:449
+msgid "FirmaSite Theme Enhancer"
+msgstr "FirmaSite Tema Güç Artırıcı"
+
+#: functions/shortcodes.php:191
+msgid "Gallery Style"
+msgstr "Galeri Stili"
+
+#: functions/shortcodes.php:195
+msgid "Grid"
+msgstr "Sıra Sıra"
+
+#: functions/shortcodes.php:196
+msgid "Tiles"
+msgstr "Mozaik"
+
+#: functions/shortcodes.php:197
+msgid "Slider"
+msgstr "Slayt"
+
+#: buddypress/activity/index.php:60
+#, php-format
+msgctxt "Number of new activity mentions"
+msgid "%s new"
+msgid_plural "%s new"
+msgstr[0] "%s yeni"
+msgstr[1] ""
+
+#: buddypress/members/single/groups/invites.php:15
+#, php-format
+msgctxt "Group member count"
+msgid "1 member"
+msgid_plural "%d members"
+msgstr[0] "1 üye"
+msgstr[1] ""
+
+#: comments.php:32
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+"&ldquo;%2$s&rdquo; üzerine \n"
+"%1$s yorum"
+msgstr[1] ""
+
+#: comments.php:71
+msgid "Comments are closed."
+msgstr "Yoruma kapalı."
+
+#: header.php:34
+msgid "Skip to content"
+msgstr "İçeriğe geçin"
+
+#: functions/showcase.php:261
+#: page-full-width.php:9
+msgid "Full Width"
+msgstr "Tam Sayfa"
+
+#: searchform.php:7
+msgctxt "label"
+msgid "Search for:"
+msgstr "Arama yap"
+
+#: searchform.php:10
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Arama Yap &hellip;"
+
+#: searchform.php:12
+msgctxt "submit button"
+msgid "Search"
+msgstr "Ara"
+
+#: bbpress/content-single-topic-lead.php:18
+#: bbpress/content-single-topic-lead.php:90
+msgid "Creator"
+msgstr "Oluşturan"
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: bbpress/content-single-topic-lead.php:22
+#: bbpress/content-single-topic-lead.php:94
+#: buddypress/forums/forums-loop.php:23
+msgid "Topic"
+msgid_plural "Topics"
+msgstr[0] "Başlık"
+msgstr[1] ""
+
+#: bbpress/feedback-logged-in.php:13
+msgid "You are already logged in."
+msgstr "Zaten giriş yapmışsınız."
+
+#: bbpress/feedback-no-access.php:13
+msgid "Private"
+msgstr "Özel"
+
+#: bbpress/feedback-no-access.php:16
+msgid "You do not have permission to view this forum."
+msgstr "Bu forumu görüntülemek için yetkiniz yok."
+
+#: bbpress/feedback-no-forums.php:13
+msgid "Oh bother! No forums were found here!"
+msgstr "Üzgünüz! Burada bir forum bulunmadı!"
+
+#: bbpress/feedback-no-replies.php:13
+msgid "Oh bother! No replies were found here!"
+msgstr "Hiç cevap bulunamadı"
+
+#: bbpress/feedback-no-search.php:13
+msgid "Oh bother! No search results were found here!"
+msgstr "Arama sonucunda bir şey bulunamadı."
+
+#: bbpress/feedback-no-topics.php:13
+msgid "Oh bother! No topics were found here!"
+msgstr "Üzgünüz! Burada bir konu bulunmadı!"
+
+#: bbpress/form-anonymous.php:19
+msgid "Author Information"
+msgstr "Yazar Bilgisi"
+
+#: bbpress/form-anonymous.php:19
+msgid "Your information:"
+msgstr "Bilgileriniz:"
+
+#: bbpress/form-anonymous.php:26
+msgid "Name (required):"
+msgstr "İsim (gerekli):"
+
+#: bbpress/form-anonymous.php:33
+msgid "Mail (will not be published) (required):"
+msgstr "E-posta (yayınlanmayacak) (gerekli):"
+
+#: bbpress/form-anonymous.php:40
+msgid "Website:"
+msgstr "Web sitesi:"
+
+#: bbpress/form-forum.php:35
+#: bbpress/form-topic.php:41
+#, php-format
+msgid "Now Editing &ldquo;%s&rdquo;"
+msgstr "Düzenleniyor &ldquo;%s&rdquo;"
+
+#: bbpress/form-forum.php:37
+#, php-format
+msgid "Create New Forum in &ldquo;%s&rdquo;"
+msgstr "Yeni Forum Yarat &ldquo;%s&rdquo;"
+
+#: bbpress/form-forum.php:37
+msgid "Create New Forum"
+msgstr "Yeni forum oluştur"
+
+#: bbpress/form-forum.php:47
+msgid ""
+"This forum is closed to new content, however your account still allows you "
+"to do so."
+msgstr "Bu forum yeni içeriğe kapalı ancak sizin hesap yetkileriniz izin vermektedir."
+
+#: bbpress/form-forum.php:55
+#: bbpress/form-reply.php:44
+#: bbpress/form-topic.php:61
+msgid "Your account has the ability to post unrestricted HTML content."
+msgstr "Hesabınızın kısıtlamasız HTML içerik gönderme yetkisi var."
+
+#: bbpress/form-forum.php:67
+#, php-format
+msgid "Forum Name (Maximum Length: %d):"
+msgstr "Forum Adı  (Maksimum Uzunluk: %d):"
+
+#: bbpress/form-forum.php:91
+msgid "Forum Type:"
+msgstr "Forum Tipi:"
+
+#: bbpress/form-forum.php:100
+msgid "Status:"
+msgstr "Durum:"
+
+#: bbpress/form-forum.php:109
+msgid "Visibility:"
+msgstr "Görünürlük:"
+
+#: bbpress/form-forum.php:118
+msgid "Parent Forum:"
+msgstr "Üst forum:"
+
+#: bbpress/form-forum.php:123
+msgid "(No Parent)"
+msgstr "(Kök yok)"
+
+#: bbpress/form-forum.php:138
+#: bbpress/form-reply-move.php:73
+#: bbpress/form-reply.php:146
+#: bbpress/form-topic-merge.php:94
+#: bbpress/form-topic-split.php:98
+#: bbpress/form-topic.php:217
+msgid "Submit"
+msgstr "Gönder"
+
+#: bbpress/form-forum.php:161
+#, php-format
+msgid "The forum &#8216;%s&#8217; is closed to new content."
+msgstr "Forum &#8216;%s&#8217;  yeni içeriğe kapatıldı."
+
+#: bbpress/form-forum.php:169
+msgid "You cannot create new forums."
+msgstr "Yeni forum yaratamazsınız."
+
+#: bbpress/form-forum.php:169
+msgid "You must be logged in to create new forums."
+msgstr "Yeni forum yaratmak için giriş yapmalısınız."
+
+#: bbpress/form-protected.php:14
+msgid "Protected"
+msgstr "Korunmuş"
+
+#: bbpress/form-reply-move.php:24
+#, php-format
+msgid "Move reply \"%s\""
+msgstr "Cevabı taşı: \"%s\""
+
+#: bbpress/form-reply-move.php:29
+msgid ""
+"You can either make this reply a new topic with a new title, or merge it "
+"into an existing topic."
+msgstr ""
+"Bu cevabı yeni başlık ile yeni bir konu yapabilir veya varolan bir konuyla "
+"birleştirebilirsiniz."
+
+#: bbpress/form-reply-move.php:33
+msgid ""
+"If you choose an existing topic, replies will be ordered by the time and "
+"date they were created."
+msgstr "Eğer varolan bir konu seçerseniz, gönderiler zamana göre sıralanacaktır."
+
+#: bbpress/form-reply-move.php:37
+msgid "Move Method"
+msgstr "Taşıma Metodu"
+
+#: bbpress/form-reply-move.php:41
+#: bbpress/form-topic-split.php:41
+#, php-format
+msgid "New topic in <strong>%s</strong> titled:"
+msgstr "<strong>%s</strong>&#8217;daki yeni konunun başlığı:"
+
+#: bbpress/form-reply-move.php:42
+#, php-format
+msgid "Moved: %s"
+msgstr "Taşındı: %s"
+
+#: bbpress/form-reply-move.php:49
+#: bbpress/form-topic-split.php:49
+msgid "Use an existing topic in this forum:"
+msgstr "Bu forumda varolan bir konuyu kullan:"
+
+#: bbpress/form-reply-move.php:58
+#: bbpress/form-topic-split.php:58
+msgid "No other topics found!"
+msgstr "Başka bir konu bulunamadı!"
+
+#: bbpress/form-reply-move.php:69
+#: bbpress/form-topic-merge.php:90
+#: bbpress/form-topic-split.php:94
+msgid "<strong>WARNING:</strong> This process cannot be undone."
+msgstr "<strong> UYARI: </strong> Bu işlem geri alınamaz."
+
+#: bbpress/form-reply-move.php:86
+msgid "You do not have the permissions to edit this reply!"
+msgstr "Bu cevabı düzenleme yetkiniz yok!"
+
+#: bbpress/form-reply-move.php:86
+msgid "You cannot edit this reply."
+msgstr "Bu cevabı düzenleyemezsiniz."
+
+#: bbpress/form-reply.php:29
+#, php-format
+msgid "Reply To: %s"
+msgstr "Yanıtla: %s"
+
+#: bbpress/form-reply.php:36
+msgid ""
+"This topic is marked as closed to new replies, however your posting "
+"capabilities still allow you to do so."
+msgstr ""
+"Bu konu yeni yanıtlara kapalı olarak işaretlendi, ancak gönderi "
+"özellikleriniz halen yanıt verebilmenizi sağlıyor."
+
+#: bbpress/form-reply.php:85
+msgid "Tags:"
+msgstr "Etiketler:"
+
+#: bbpress/form-reply.php:103
+#: bbpress/form-topic.php:177
+msgid "Notify the author of follow-up replies via email"
+msgstr "Sonraki yanıtlar için yazarı email ile haberdar et"
+
+#: bbpress/form-reply.php:107
+#: bbpress/form-topic.php:181
+msgid "Notify me of follow-up replies via email"
+msgstr "Beni, takip eden yanıtlardan e-posta ile haberdar et"
+
+#: bbpress/form-reply.php:125
+#: bbpress/form-topic.php:198
+msgid "Keep a log of this edit:"
+msgstr "Bu düzenlemenin bir kaydını tutun:"
+
+#: bbpress/form-reply.php:129
+#: bbpress/form-topic.php:202
+msgid "Optional reason for editing:"
+msgstr "Düzenleme için isteğe bağlı neden"
+
+#: bbpress/form-reply.php:169
+#, php-format
+msgid "The topic &#8216;%s&#8217; is closed to new replies."
+msgstr "&#8216;%s&#8217; konusu yeni yanıtlara kapalı."
+
+#: bbpress/form-reply.php:177
+#: bbpress/form-topic.php:240
+#, php-format
+msgid "The forum &#8216;%s&#8217; is closed to new topics and replies."
+msgstr "Forum  &#8216;%s&#8217; yeni konu ve cevaplara kapatıldı."
+
+#: bbpress/form-reply.php:185
+msgid "You cannot reply to this topic."
+msgstr "Bu konuya cevap veremezsiniz."
+
+#: bbpress/form-reply.php:185
+msgid "You must be logged in to reply to this topic."
+msgstr "Bu konuya cevap vermek için giriş yapmış olmanız gerekir."
+
+#: bbpress/form-search.php:12
+#: bbpress/form-search.php:15
+msgid "Search for:"
+msgstr "Arama yap:"
+
+#: bbpress/form-search.php:17
+msgid "Search"
+msgstr "Arama Yap"
+
+#: bbpress/form-topic-merge.php:24
+#, php-format
+msgid "Merge topic \"%s\""
+msgstr "\"%s\" konusunu birleştir"
+
+#: bbpress/form-topic-merge.php:29
+msgid ""
+"Select the topic to merge this one into. The destination topic will remain "
+"the lead topic, and this one will change into a reply."
+msgstr ""
+"Bu konuyu birleştirmek istediğiniz konuyu seçin. Seçeceğiniz hedef konu ana "
+"konu olarak kalacaktır ve bu konu bir yanıta dönüşecektir."
+
+#: bbpress/form-topic-merge.php:30
+msgid ""
+"To keep this topic as the lead, go to the other topic and use the merge tool "
+"from there instead."
+msgstr ""
+"Bu konuyu ana konu olarak tutmak için, diğer konuya giderek birleştirme "
+"aracını o konu altında kullanın."
+
+#: bbpress/form-topic-merge.php:34
+msgid ""
+"All replies within both topics will be merged chronologically. The order of "
+"the merged replies is based on the time and date they were posted. If the "
+"destination topic was created after this one, it's post date will be updated "
+"to second earlier than this one."
+msgstr ""
+"Her iki konudaki tüm yanıtlar kronolojik olarak birleştirilir. "
+"Birleştirilmiş yanıtların sıralaması, gönderildikleri zaman ve tarih esas "
+"alınarak yapılır. Hedef konu bu başlıktan daha sonra oluşturulduysa, konunun "
+"gönderi tarihi ilk gönderinin tarihi olarak güncellenir."
+
+#: bbpress/form-topic-merge.php:38
+msgid "Destination"
+msgstr "Hedef"
+
+#: bbpress/form-topic-merge.php:42
+msgid "Merge with this topic:"
+msgstr "Bu konu ile birleştir:"
+
+#: bbpress/form-topic-merge.php:51
+msgid "No topics were found to which the topic could be merged to!"
+msgstr "Birleştirilecek konu bulunamadı!"
+
+#: bbpress/form-topic-merge.php:57
+msgid "There are no other topics in this forum to merge with."
+msgstr "Bu forumda birleştirilecek başka konu yok."
+
+#: bbpress/form-topic-merge.php:65
+#: bbpress/form-topic-split.php:69
+msgid "Topic Extras"
+msgstr "Konu ekstraları"
+
+#: bbpress/form-topic-merge.php:72
+msgid "Merge topic subscribers"
+msgstr "Konu abonelerini birleştir "
+
+#: bbpress/form-topic-merge.php:77
+msgid "Merge topic favoriters"
+msgstr "Konu favorilerini birleştir"
+
+#: bbpress/form-topic-merge.php:82
+msgid "Merge topic tags"
+msgstr "Konu etiketlerini birleştir "
+
+#: bbpress/form-topic-merge.php:107
+#: bbpress/form-topic-split.php:111
+msgid "You do not have the permissions to edit this topic!"
+msgstr "Bu konuyu düzenlemek için izniniz yok!"
+
+#: bbpress/form-topic-merge.php:107
+#: bbpress/form-topic-split.php:111
+msgid "You cannot edit this topic."
+msgstr "Bu konuyu düzenleyemezsiniz."
+
+#: bbpress/form-topic-split.php:24
+#, php-format
+msgid "Split topic \"%s\""
+msgstr "\"%s\" konusunu böl"
+
+#: bbpress/form-topic-split.php:29
+msgid ""
+"When you split a topic, you are slicing it in half starting with the reply "
+"you just selected. Choose to use that reply as a new topic with a new title, "
+"or merge those replies into an existing topic."
+msgstr ""
+"Bir konuyu bölerken, seçtiğiniz cevaptan başlayarak yeni bir konu yaratılır. "
+"Seçtiğiniz cevaba yeni bir başlık  seçin yada varolan bir konu ile "
+"birleştirin."
+
+#: bbpress/form-topic-split.php:33
+msgid ""
+"If you use the existing topic option, replies within both topics will be "
+"merged chronologically. The order of the merged replies is based on the time "
+"and date they were posted."
+msgstr ""
+"Eğer var olan konu seçeneğini kullanırsanız, her iki konunun yanıtları "
+"kronolojik olarak birleştirileceklerdir. Yanıtların sıraları yanıtın "
+"yapıldığı tarihe göre ayarlanacaktır."
+
+#: bbpress/form-topic-split.php:37
+msgid "Split Method"
+msgstr "Ayırma yöntemi"
+
+#: bbpress/form-topic-split.php:42
+#, php-format
+msgid "Split: %s"
+msgstr "Ayır: %s"
+
+#: bbpress/form-topic-split.php:76
+msgid "Copy subscribers to the new topic"
+msgstr "Aboneleri yeni konuya kopyala"
+
+#: bbpress/form-topic-split.php:81
+msgid "Copy favoriters to the new topic"
+msgstr "Beğenenleri yeni konuya kopyala"
+
+#: bbpress/form-topic-split.php:86
+msgid "Copy topic tags to the new topic"
+msgstr "Konu etiketlerini yeni konuya kopyala"
+
+#: bbpress/form-topic-tag.php:18
+#, php-format
+msgid "Manage Tag: \"%s\""
+msgstr "Etiketi düzenle: &quot;%s&quot;"
+
+#: bbpress/form-topic-tag.php:22
+msgid "Rename"
+msgstr "Yenile"
+
+#: bbpress/form-topic-tag.php:25
+msgid "Leave the slug empty to have one automatically generated."
+msgstr ""
+"Kısa ismi boş bırakırsanız, yeni bir kısa isim otomatik olarak "
+"oluşturulacaktır."
+
+#: bbpress/form-topic-tag.php:29
+msgid ""
+"Changing the slug affects its permalink. Any links to the old slug will stop "
+"working."
+msgstr ""
+"Kısa ismi değiştirmek kalıcı bağlantıyı etkileyecektir. Eski kısa isim ile "
+"çalışan bağlantılar çalışmayacaklardır."
+
+#: bbpress/form-topic-tag.php:35
+msgid "Name:"
+msgstr "İsim:"
+
+#: bbpress/form-topic-tag.php:40
+msgid "Slug:"
+msgstr "Kısa isim:"
+
+#: bbpress/form-topic-tag.php:45
+msgid "Update"
+msgstr "Güncelle"
+
+#: bbpress/form-topic-tag.php:59
+#: bbpress/form-topic-tag.php:73
+msgid "Merge"
+msgstr "Birleştir"
+
+#: bbpress/form-topic-tag.php:62
+msgid "Merging tags together cannot be undone."
+msgstr "Etiketleri birleştirme işlemi geri alınamaz."
+
+#: bbpress/form-topic-tag.php:68
+msgid "Existing tag:"
+msgstr "Mevcut etiket:"
+
+#: bbpress/form-topic-tag.php:73
+#, php-format
+msgid "Are you sure you want to merge the \"%s\" tag into the tag you specified?"
+msgstr ""
+"&quot;%s&quot;  etiketini belirttiğiniz yeni etiket ile birleştirmek "
+"istediğinize emin misiniz?"
+
+#: bbpress/form-topic-tag.php:88
+#: bbpress/form-topic-tag.php:101
+#: buddypress/activity/comment.php:38
+#: buddypress/members/single/messages/messages-loop.php:52
+#: buddypress/members/single/messages/single.php:25
+msgid "Delete"
+msgstr "Sil"
+
+#: bbpress/form-topic-tag.php:91
+msgid "This does not delete your topics. Only the tag itself is deleted."
+msgstr "Bu sizin konunuzu silmez. Sadece etiketin kendisi silinir."
+
+#: bbpress/form-topic-tag.php:94
+msgid "Deleting a tag cannot be undone."
+msgstr "Bir etiket silinmesi geri alınamaz."
+
+#: bbpress/form-topic-tag.php:95
+msgid "Any links to this tag will no longer function."
+msgstr "Bu etikete verilecek bağlantılar bundan sonra çalışmayacaktır."
+
+#: bbpress/form-topic-tag.php:101
+#, php-format
+msgid ""
+"Are you sure you want to delete the \"%s\" tag? This is permanent and cannot "
+"be undone."
+msgstr ""
+"\"%s\" etiketini silmek istediğinizden emin misiniz? Bu eylem kalıcıdır ve "
+"geri alınamaz."
+
+#: bbpress/form-topic.php:43
+#, php-format
+msgid "Create New Topic in &ldquo;%s&rdquo;"
+msgstr "Yeni konu oluştur:  &ldquo;%s&rdquo;"
+
+#: bbpress/form-topic.php:43
+msgid "Create New Topic"
+msgstr "Yeni konu oluştur"
+
+#: bbpress/form-topic.php:53
+msgid ""
+"This forum is marked as closed to new topics, however your posting "
+"capabilities still allow you to do so."
+msgstr ""
+"Bu forum yeni konulara kapalı olarak işaretlenmiş, yine de gönderim izniniz "
+"sayesinde yeni girdiler oluşturabilirsiniz."
+
+#: bbpress/form-topic.php:77
+#, php-format
+msgid "Topic Title (Maximum Length: %d):"
+msgstr "Konu başlığı (En fazla uzunluk: %d):"
+
+#: bbpress/form-topic.php:114
+msgid "Topic Tags:"
+msgstr "Konu etiketleri:"
+
+#: bbpress/form-topic.php:127
+msgid "Forum:"
+msgstr "Forum:"
+
+#: bbpress/form-topic.php:130
+msgid "(No Forum)"
+msgstr "(Forum Yok)"
+
+#: bbpress/form-topic.php:146
+msgid "Topic Type:"
+msgstr "Konu türü:"
+
+#: bbpress/form-topic.php:158
+msgid "Topic Status:"
+msgstr "Konu Durumu:"
+
+#: bbpress/form-topic.php:248
+msgid "You cannot create new topics."
+msgstr "Yeni konu yaratamazsınız."
+
+#: bbpress/form-topic.php:248
+msgid "You must be logged in to create new topics."
+msgstr "Yeni konu oluşturmak için giriş yapmalısınız."
+
+#: bbpress/form-user-edit.php:14
+#: bbpress/form-user-edit.php:19
+#: buddypress/members/single/profile/profile-wp.php:15
+#: functions/template-tags.php:163
+msgid "Name"
+msgstr "İsim"
+
+#: bbpress/form-user-edit.php:24
+msgid "First Name"
+msgstr "Ad"
+
+#: bbpress/form-user-edit.php:31
+msgid "Last Name"
+msgstr "Soyad"
+
+#: bbpress/form-user-edit.php:38
+msgid "Nickname"
+msgstr "Kullanıcı adı"
+
+#: bbpress/form-user-edit.php:45
+msgid "Display Name"
+msgstr "Görünüm Adı"
+
+#: bbpress/form-user-edit.php:55
+#: bbpress/form-user-edit.php:58
+msgid "Contact Info"
+msgstr "İletişim Bilgileri"
+
+#: bbpress/form-user-edit.php:63
+#: buddypress/members/single/profile/profile-wp.php:33
+#: functions/template-tags.php:167
+msgid "Website"
+msgstr "Website"
+
+#: bbpress/form-user-edit.php:84
+#: bbpress/form-user-edit.php:87
+msgid "About Yourself"
+msgstr "Kendiniz hakkında"
+
+#: bbpress/form-user-edit.php:84
+#: bbpress/form-user-edit.php:87
+msgid "About the user"
+msgstr "Kullanıcı hakkında"
+
+#: bbpress/form-user-edit.php:92
+msgid "Biographical Info"
+msgstr "Biyografik bilgi"
+
+#: bbpress/form-user-edit.php:103
+#: bbpress/form-user-edit.php:106
+msgid "Account"
+msgstr "Hesap"
+
+#: bbpress/form-user-edit.php:111
+#: bbpress/form-user-login.php:17
+#: bbpress/form-user-register.php:23
+#: buddypress/members/register.php:38
+msgid "Username"
+msgstr "Kullanıcı adı"
+
+#: bbpress/form-user-edit.php:118
+#: bbpress/form-user-register.php:28
+#: functions/template-tags.php:165
+msgid "Email"
+msgstr "Eposta"
+
+#: bbpress/form-user-edit.php:130
+#, php-format
+msgid ""
+"There is a pending email address change to <code>%1$s</code>. <a "
+"href=\"%2$s\">Cancel</a>"
+msgstr ""
+"<code>%1$s</code> için bekleyen e-posta değişikliği işlemi mevcut. <a "
+"href=\"%2$s\">İptal</a>"
+
+#: bbpress/form-user-edit.php:139
+#: buddypress/members/single/settings/general.php:18
+msgid "New Password"
+msgstr "Yeni parola"
+
+#: bbpress/form-user-edit.php:143
+msgid ""
+"If you would like to change the password type a new one. Otherwise leave "
+"this blank."
+msgstr ""
+"Eğer şifrenizi değiştirmek istiyorsanız yenisini yazın. Aksi halde bu alanı "
+"boş bırakın."
+
+#: bbpress/form-user-edit.php:146
+msgid "Type your new password again."
+msgstr "Yeni parolanızı tekrar yazın."
+
+#: bbpress/form-user-edit.php:149
+msgid ""
+"Your password should be at least ten characters long. Use upper and lower "
+"case letters, numbers, and symbols to make it even stronger."
+msgstr "Şifreniz en az 10 karakterli olmalıdır."
+
+#: bbpress/form-user-edit.php:160
+#: bbpress/form-user-edit.php:163
+msgid "User Role"
+msgstr "Kullanıcı Yetkisi"
+
+#: bbpress/form-user-edit.php:170
+msgid "Network Role"
+msgstr "Ağ Yetkisi"
+
+#: bbpress/form-user-edit.php:173
+msgid "Grant this user super admin privileges for the Network."
+msgstr "Kullanıcıya bu ağ için süper yönetici yetkisi sağla."
+
+#: bbpress/form-user-edit.php:190
+#: buddypress/groups/single/admin.php:37
+#: buddypress/groups/single/admin.php:122
+#: buddypress/groups/single/forum/edit.php:58
+#: buddypress/groups/single/forum/edit.php:74
+#: buddypress/members/single/profile/edit.php:72
+#: buddypress/members/single/settings/general.php:25
+#: buddypress/members/single/settings/notifications.php:13
+msgid "Save Changes"
+msgstr "Değişikliği kaydet"
+
+#: bbpress/form-user-edit.php:195
+msgid "Update Profile"
+msgstr "Profili güncelle"
+
+#: bbpress/form-user-edit.php:195
+msgid "Update User"
+msgstr "Kullanıcıyı güncelle"
+
+#: bbpress/form-user-login.php:14
+#: bbpress/form-user-login.php:35
+msgid "Log In"
+msgstr "Giriş"
+
+#: bbpress/form-user-login.php:22
+msgid "Password"
+msgstr "Parola"
+
+#: bbpress/form-user-login.php:28
+msgid "Keep me signed in"
+msgstr "Beni hatırla"
+
+#: bbpress/form-user-lost-pass.php:14
+msgid "Lost Password"
+msgstr "Kayıp parola"
+
+#: bbpress/form-user-lost-pass.php:18
+msgid "Username or Email"
+msgstr "Kullanıcı adı veya e-posta"
+
+#: bbpress/form-user-lost-pass.php:27
+msgid "Reset My Password"
+msgstr "Şifremini Değiştir"
+
+#: bbpress/form-user-register.php:14
+#: buddypress/members/register.php:23
+msgid "Create an Account"
+msgstr "Hesap oluştur"
+
+#: bbpress/form-user-register.php:17
+msgid "Your username must be unique, and cannot be changed later."
+msgstr "Kullanıcı adınız benzersiz olmalıdır ve daha sonra değiştirilemez."
+
+#: bbpress/form-user-register.php:18
+msgid ""
+"We use your email address to email you a secure password and verify your "
+"account."
+msgstr ""
+"E-posta adresinizi, size güvenli bir şifre gönderirken ve hesabınızı "
+"doğrularken kullanacağız."
+
+#: bbpress/form-user-register.php:36
+msgid "Register"
+msgstr "Kayıt ol"
+
+#: bbpress/form-user-roles.php:2
+msgid "Blog Role"
+msgstr "Site Yetkisi"
+
+#: bbpress/form-user-roles.php:9
+msgid "Forum Role"
+msgstr "Forum Yetkisi"
+
+#: bbpress/loop-search-forum.php:50
+#: bbpress/loop-single-forum.php:68
+msgid "Topics"
+msgstr "Başlıklar"
+
+#: bbpress/loop-search-forum.php:52
+#: bbpress/loop-search-topic.php:54
+#: bbpress/loop-single-forum.php:70
+#: bbpress/loop-single-topic.php:61
+msgid "Replies"
+msgstr "Cevaplar"
+
+#: bbpress/loop-search-forum.php:52
+#: bbpress/loop-search-topic.php:54
+#: bbpress/loop-single-forum.php:70
+#: bbpress/loop-single-topic.php:61
+#: buddypress/forums/forums-loop.php:24
+#: functions/buddypress-customs.php:123
+msgid "Posts"
+msgstr "İletiler"
+
+#: bbpress/loop-search-reply.php:43
+msgid "In reply to: "
+msgstr "Cevap olarak:"
+
+#: bbpress/loop-search-reply.php:64
+#: bbpress/loop-single-reply-threaded.php:74
+#: bbpress/loop-single-reply.php:63
+#: buddypress/activity/entry.php:41
+msgid "Details"
+msgstr "Ayrıntılar"
+
+#: bbpress/loop-search-topic.php:32
+msgid "in group forum "
+msgstr "grup forumunda"
+
+#: bbpress/loop-search-topic.php:36
+msgid "in forum "
+msgstr "forumda"
+
+#: bbpress/loop-search-topic.php:58
+#: bbpress/loop-single-topic.php:65
+#, php-format
+msgid "Started by: %1$s"
+msgstr "Başlatan:%1$s"
+
+#: bbpress/loop-search-topic.php:63
+#: bbpress/loop-single-topic.php:70
+#: buddypress/forums/forums-loop.php:25
+#: functions/bbpress.php:111
+#: functions/bbpress.php:141
+msgid "Freshness"
+msgstr "Yenilenme"
+
+#: bbpress/loop-search-topic.php:83
+#: bbpress/loop-single-topic.php:90
+#, php-format
+msgid "in: <a href=\"%1$s\">%2$s</a>"
+msgstr "Şurada: <a href=\"%1$s\">%2$s</a>"
+
+#: bbpress/loop-single-reply-threaded.php:33
+#: bbpress/loop-single-reply.php:33
+msgid "in reply to: "
+msgstr "cevabının konusu:"
+
+#: bbpress/user-details.php:28
+#: buddypress/members/single/profile/profile-wp.php:8
+#, php-format
+msgid "%s's Profile"
+msgstr "%s kullanıcısının profili"
+
+#: bbpress/user-details.php:28
+#: bbpress/user-profile.php:15
+msgid "Profile"
+msgstr "Profil"
+
+#: bbpress/user-details.php:32
+#, php-format
+msgid "%s's Topics Started"
+msgstr "%s'ın Başlattığı Konular"
+
+#: bbpress/user-details.php:32
+msgid "Topics Started"
+msgstr "Başlattığı Konular"
+
+#: bbpress/user-details.php:36
+#, php-format
+msgid "%s's Replies Created"
+msgstr "%s Gönderdiği Cevaplar"
+
+#: bbpress/user-details.php:36
+msgid "Replies Created"
+msgstr "Gönderilen Cevaplar"
+
+#: bbpress/user-details.php:41
+#, php-format
+msgid "%s's Favorites"
+msgstr "%s Favori Konuları"
+
+#: bbpress/user-details.php:41
+msgid "Favorites"
+msgstr "Favori Konuları"
+
+#: bbpress/user-details.php:49
+#, php-format
+msgid "%s's Subscriptions"
+msgstr "%s Abonelikleri"
+
+#: bbpress/user-details.php:49
+msgid "Subscriptions"
+msgstr "Abonelikler"
+
+#: bbpress/user-details.php:54
+#, php-format
+msgid "Edit %s's Profile"
+msgstr "%s Profilini Düzenle"
+
+#: bbpress/user-details.php:54
+#: templates/post/loop_list/loop-gallery.php:55
+#: templates/post/loop_list/loop-image.php:59
+#: templates/post/loop_list/loop.php:59
+#: templates/post/single.php:53
+#: templates/single-page.php:29
+#: templates/single_full-page.php:30
+msgid "Edit"
+msgstr "Düzenle"
+
+#: bbpress/user-favorites.php:15
+msgid "Favorite Forum Topics"
+msgstr "Favori Forum Konuları"
+
+#: bbpress/user-favorites.php:28
+msgid "You currently have no favorite topics."
+msgstr "Henüz favori konunuz yok."
+
+#: bbpress/user-favorites.php:28
+msgid "This user has no favorite topics."
+msgstr "Bu kullanıcının favori konusu yok."
+
+#: bbpress/user-profile.php:24
+#, php-format
+msgid "Forum Role: %s"
+msgstr "Forum Yetkisi: %s"
+
+#: bbpress/user-profile.php:25
+#, php-format
+msgid "Topics Started: %s"
+msgstr "Başlattığı Konular: %s"
+
+#: bbpress/user-profile.php:26
+#, php-format
+msgid "Replies Created: %s"
+msgstr "Gönderilen Cevaplar: %s"
+
+#: bbpress/user-replies-created.php:15
+msgid "Forum Replies Created"
+msgstr "Forumda Gönderdiği Cevaplar"
+
+#: bbpress/user-replies-created.php:28
+msgid "You have not replied to any topics."
+msgstr "Hİçbir konuya cevap yazmadınız."
+
+#: bbpress/user-replies-created.php:28
+msgid "This user has not replied to any topics."
+msgstr "Bu kullanıcı hiçbir konuya cevap yazmadı."
+
+#: bbpress/user-subscriptions.php:19
+msgid "Subscribed Forums"
+msgstr "Abone Olunan Forumlar"
+
+#: bbpress/user-subscriptions.php:28
+msgid "You are not currently subscribed to any forums."
+msgstr "Şu an hiçbir foruma abone değilsiniz."
+
+#: bbpress/user-subscriptions.php:28
+msgid "This user is not currently subscribed to any forums."
+msgstr "Bu kullanıcı şu an hiçbir foruma abone değil."
+
+#: bbpress/user-subscriptions.php:34
+msgid "Subscribed Forum Topics"
+msgstr "Abone blunan forum konuları"
+
+#: bbpress/user-subscriptions.php:47
+msgid "You are not currently subscribed to any topics."
+msgstr "Şu anda herhangi bir konuya üye değilsiniz."
+
+#: bbpress/user-subscriptions.php:47
+msgid "This user is not currently subscribed to any topics."
+msgstr "Bu kullanıcı henüz bir konuya abone değil."
+
+#: bbpress/user-topics-created.php:15
+msgid "Forum Topics Started"
+msgstr "Forumda Başlattığı Konular"
+
+#: bbpress/user-topics-created.php:28
+msgid "You have not created any topics."
+msgstr "Herhangi bir konu oluşturmadınız."
+
+#: bbpress/user-topics-created.php:28
+msgid "This user has not created any topics."
+msgstr "Bu kullanıcı hiçbir konu oluşturmadı."
+
+#: buddypress/activity/activity-loop.php:20
+msgid "Load More"
+msgstr "Daha Fazla Yükle"
+
+#: buddypress/activity/activity-loop.php:34
+msgid "Sorry, there was no activity found. Please try a different filter."
+msgstr ""
+"Üzgünüz, herhangi bir etkinlik bulunamadı. Lütfen farklı bir filtre "
+"kullanmayı deneyin."
+
+#. translators: 1: user profile link, 2: user name, 3: activity permalink, 4: activity timestamp
+#: buddypress/activity/comment.php:24
+#, php-format
+msgid ""
+"<a href=\"%1$s\">%2$s</a> replied <a href=\"%3$s\" class=\"activity-time-"
+"since\"><span class=\"time-since\">%4$s</span></a>"
+msgstr ""
+"<a href=\"%1$s\">%2$s</a> cevapladı <a href=\"%3$s\" class=\"activity-time-"
+"since\"><span class=\"time-since\">%4$s</span></a>"
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: buddypress/activity/comment.php:32
+#: buddypress/groups/single/forum/edit.php:10
+msgid "Reply"
+msgid_plural "Replies"
+msgstr[0] "Cevapla"
+msgstr[1] ""
+
+#: buddypress/activity/entry.php:56
+#, php-format
+msgid "Comment <span>%s</span>"
+msgstr "Yorum <span>%s</span>"
+
+#: buddypress/activity/entry.php:64
+msgid "Mark as Favorite"
+msgstr "Favori Olarak İşaretle"
+
+#: buddypress/activity/entry.php:64
+#: functions/buddypress-functions.php:242
+#: functions/buddypress-functions.php:946
+#: functions/buddypress-functions.php:963
+msgid "Favorite"
+msgstr "Favori"
+
+#: buddypress/activity/entry.php:68
+#: functions/buddypress-functions.php:245
+#: functions/buddypress-functions.php:944
+#: functions/buddypress-functions.php:965
+msgid "Remove Favorite"
+msgstr "Favoriden Çıkar"
+
+#: buddypress/activity/entry.php:122
+msgid "Post"
+msgstr "Mesaj"
+
+#: buddypress/activity/entry.php:122
+#: buddypress/forums/index.php:117
+msgid "Cancel"
+msgstr "İptal"
+
+#: buddypress/activity/index.php:20
+msgid "The public activity for everyone on this site."
+msgstr "Bu sitedeki herkesin aktivite listesi."
+
+#: buddypress/activity/index.php:20
+#: buddypress/members/index.php:20
+#, php-format
+msgid "All Members <span>%s</span>"
+msgstr "Bütün Üyeler <span>%s</span>"
+
+#: buddypress/activity/index.php:30
+msgid "The activity of my friends only."
+msgstr "Sadece arkadaşlarımın aktiviteleri."
+
+#: buddypress/activity/index.php:30
+#: buddypress/members/index.php:23
+#, php-format
+msgid "My Friends <span>%s</span>"
+msgstr "Arkadaşlarım <span>%s</span>"
+
+#: buddypress/activity/index.php:42
+msgid "The activity of groups I am a member of."
+msgstr "Üyesi olduğum gruplardaki aktiviteler."
+
+#: buddypress/activity/index.php:42
+#: buddypress/groups/index.php:23
+#, php-format
+msgid "My Groups <span>%s</span>"
+msgstr "Gruplarım <span>%s</span>"
+
+#: buddypress/activity/index.php:52
+msgid "The activity I've marked as a favorite."
+msgstr "Favori olarak işaretlediğim aktiviteler."
+
+#: buddypress/activity/index.php:52
+#, php-format
+msgid "My Favorites <span>%s</span>"
+msgstr "Favorilerim <span>%s</span>"
+
+#: buddypress/activity/index.php:60
+msgid "Activity that I have been mentioned in."
+msgstr "Hakkımda söylenti olan aktiviteler."
+
+#: buddypress/activity/index.php:60
+msgid "Mentions"
+msgstr "Söylentiler"
+
+#: buddypress/activity/index.php:76
+#: buddypress/groups/single/activity.php:7
+#: buddypress/members/single/activity.php:18
+msgid "Show:"
+msgstr "Göster:"
+
+#: buddypress/activity/post-form.php:35
+#, php-format
+msgid "What's new in %s, %s?"
+msgstr "%s grubunda ne var ne yok %s?"
+
+#: buddypress/activity/post-form.php:37
+#, php-format
+msgid "What's new, %s?"
+msgstr "Ne var ne yok %s?"
+
+#: buddypress/activity/post-form.php:45
+msgid "Post in"
+msgstr "Burada Gönder"
+
+#: buddypress/activity/post-form.php:48
+#: buddypress/members/single/profile/profile-wp.php:8
+msgid "My Profile"
+msgstr "Profilim"
+
+#: buddypress/activity/post-form.php:72
+msgid "Post Update"
+msgstr "Mesaj Güncelle"
+
+#: buddypress/blogs/blogs-loop.php:78
+msgid "Sorry, there were no sites found."
+msgstr "Üzgünüz, hiçbir site bulunamadı."
+
+#: buddypress/blogs/create.php:14
+msgid "Site registration is currently disabled"
+msgstr "Site kayıt işlemi şu an için devre dışı"
+
+#: buddypress/blogs/index.php:17
+#, php-format
+msgid "All Sites <span>%s</span>"
+msgstr "Bütün Siteler <span>%s</span>"
+
+#: buddypress/blogs/index.php:21
+#, php-format
+msgid "My Sites <span>%s</span>"
+msgstr "Sitelerim <span>%s</span>"
+
+#: buddypress/blogs/index.php:37
+#: buddypress/forums/index.php:43
+#: buddypress/groups/index.php:37
+#: buddypress/groups/single/forum.php:36
+#: buddypress/members/index.php:36
+#: buddypress/members/single/blogs.php:19
+#: buddypress/members/single/forums.php:18
+#: buddypress/members/single/friends.php:20
+#: buddypress/members/single/groups.php:20
+#: functions/buddypress-customs.php:295
+msgid "Order By:"
+msgstr "Sıralama:"
+
+#: buddypress/blogs/index.php:39
+#: buddypress/forums/index.php:45
+#: buddypress/groups/index.php:40
+#: buddypress/groups/single/forum.php:38
+#: buddypress/members/index.php:38
+#: buddypress/members/single/blogs.php:21
+#: buddypress/members/single/forums.php:20
+#: buddypress/members/single/friends.php:22
+#: buddypress/members/single/groups.php:22
+msgid "Last Active"
+msgstr "Son Aktif Olma"
+
+#: buddypress/blogs/index.php:40
+#: buddypress/members/single/blogs.php:22
+#: functions/buddypress-customs.php:297
+msgid "Newest"
+msgstr "En Yeni"
+
+#: buddypress/blogs/index.php:41
+#: buddypress/groups/index.php:43
+#: buddypress/members/index.php:42
+#: buddypress/members/single/blogs.php:23
+#: buddypress/members/single/friends.php:24
+#: buddypress/members/single/groups.php:25
+#: functions/buddypress-customs.php:304
+msgid "Alphabetical"
+msgstr "Alfabetik"
+
+#: buddypress/forums/forums-loop.php:38
+#: buddypress/groups/single/forum/topic.php:96
+msgid "Permanent link to this post"
+msgstr "Bu yazı için kalıcı bağlantı"
+
+#. translators: "started by [poster] in [forum]
+#: buddypress/forums/forums-loop.php:45
+#, php-format
+msgid "Started by %1$s"
+msgstr "%1$s tarafından"
+
+#. translators: "started by [poster] in [forum]
+#: buddypress/forums/forums-loop.php:56
+#, php-format
+msgid "in %1$s"
+msgstr "%1$s için başlatılmış."
+
+#: buddypress/forums/forums-loop.php:106
+msgid "Sorry, there were no forum topics found."
+msgstr "Üzgünüz, hiç forum başlığı bulunamadı."
+
+#: buddypress/forums/index.php:23
+#, php-format
+msgid "All Topics <span>%s</span>"
+msgstr "Bütün Konular <span>%s</span>"
+
+#: buddypress/forums/index.php:27
+#, php-format
+msgid "My Topics <span>%s</span>"
+msgstr "Konularım <span>%s</span>"
+
+#: buddypress/forums/index.php:46
+#: buddypress/groups/single/forum.php:39
+#: buddypress/members/single/forums.php:21
+msgid "Most Posts"
+msgstr "En Çok Mesaj"
+
+#: buddypress/forums/index.php:47
+#: buddypress/groups/single/forum.php:40
+#: buddypress/members/single/forums.php:22
+msgid "Unreplied"
+msgstr "Cevaplanmamış"
+
+#: buddypress/forums/index.php:83
+msgid "Create New Topic:"
+msgstr "Yeni Konu Ekle:"
+
+#: buddypress/forums/index.php:87
+#: buddypress/groups/single/forum/edit.php:47
+#: buddypress/groups/single/forum.php:75
+msgid "Title:"
+msgstr "Başlık:"
+
+#: buddypress/forums/index.php:90
+#: buddypress/groups/single/forum/edit.php:50
+#: buddypress/groups/single/forum.php:78
+msgid "Content:"
+msgstr "İçerik:"
+
+#: buddypress/forums/index.php:93
+#: buddypress/groups/single/forum/edit.php:53
+#: buddypress/groups/single/forum.php:81
+msgid "Tags (comma separated):"
+msgstr "Etiketler (virgülle ayırın):"
+
+#: buddypress/forums/index.php:96
+msgid "Post In Group Forum:"
+msgstr "Grup Forumuna Yaz:"
+
+#. translators: no option picked in select box
+#: buddypress/forums/index.php:99
+msgid "----"
+msgstr "----"
+
+#: buddypress/forums/index.php:116
+#: buddypress/groups/single/forum.php:87
+msgid "Post Topic"
+msgstr "Yazıyı Gönder"
+
+#: buddypress/forums/index.php:128
+#, php-format
+msgid ""
+"You are not a member of any groups so you don't have any group forums you "
+"can post in. To start posting, first find a group that matches the topic "
+"subject you'd like to start. If this group does not exist, why not <a "
+"href='%s'>create a new group</a>? Once you have joined or created the group "
+"you can post your topic in that group's forum."
+msgstr ""
+"Foruma yazı yazabilmek için bir gruba üye olmanız gerekmektedir. Yazmak "
+"istediğiniz konuyla alakalı bir gruba dahil olup yazı yazabilirsiniz. Ya da "
+"kendiniz <a href='%s'>yeni bir grup kurabilirsiniz.</a> Bu işlemlerden sonra "
+"grup forumuna konu açılabilir."
+
+#: buddypress/groups/create.php:30
+#: buddypress/groups/single/admin.php:16
+msgid "Group Name (required)"
+msgstr "Grup Adı (gerekli)"
+
+#: buddypress/groups/create.php:35
+#: buddypress/groups/single/admin.php:19
+msgid "Group Description (required)"
+msgstr "Grup Açıklaması (gerekli)"
+
+#: buddypress/groups/create.php:57
+#: buddypress/groups/single/admin.php:61
+msgid "Privacy Options"
+msgstr "Gizlilik Ayarları"
+
+#: buddypress/groups/create.php:60
+#: buddypress/groups/single/admin.php:66
+msgid "This is a public group"
+msgstr "Bu genel bir grup"
+
+#: buddypress/groups/create.php:62
+#: buddypress/groups/single/admin.php:68
+msgid "Any site member can join this group."
+msgstr "Herkes bu gruba katılabilir."
+
+#: buddypress/groups/create.php:63
+#: buddypress/groups/create.php:74
+#: buddypress/groups/single/admin.php:69
+#: buddypress/groups/single/admin.php:79
+msgid "This group will be listed in the groups directory and in search results."
+msgstr "Bu grup arama sonuçlarında ve grup dizininde gözükebilir."
+
+#: buddypress/groups/create.php:64
+#: buddypress/groups/single/admin.php:70
+msgid "Group content and activity will be visible to any site member."
+msgstr "Grup içeriği ve aktiviteleri herkes tarafından görülebilir."
+
+#: buddypress/groups/create.php:70
+#: buddypress/groups/single/admin.php:76
+msgid "This is a private group"
+msgstr "Bu özel bir grup"
+
+#: buddypress/groups/create.php:73
+#: buddypress/groups/single/admin.php:78
+msgid "Only users who request membership and are accepted can join the group."
+msgstr "Sadece üyelik isteğinde bulunan ve kabul gören üyeler gruba katılabilir."
+
+#: buddypress/groups/create.php:75
+#: buddypress/groups/create.php:86
+#: buddypress/groups/single/admin.php:80
+#: buddypress/groups/single/admin.php:90
+msgid "Group content and activity will only be visible to members of the group."
+msgstr "Grup içeriği ve aktiviteleri sadece grup üyeleri tarafından görülebilir."
+
+#: buddypress/groups/create.php:81
+#: buddypress/groups/single/admin.php:86
+msgid "This is a hidden group"
+msgstr "Bu gizli bir grup"
+
+#: buddypress/groups/create.php:84
+#: buddypress/groups/single/admin.php:88
+msgid "Only users who are invited can join the group."
+msgstr "Sadece davetli üyeler gruba katılabilir."
+
+#: buddypress/groups/create.php:85
+#: buddypress/groups/single/admin.php:89
+msgid "This group will not be listed in the groups directory or search results."
+msgstr "Bu grup arama sonuçlarında ve grup dizininde gözükmez."
+
+#: buddypress/groups/create.php:91
+#: buddypress/groups/single/admin.php:97
+msgid "Group Invitations"
+msgstr "Grup Davetiyeleri"
+
+#: buddypress/groups/create.php:93
+#: buddypress/groups/single/admin.php:99
+msgid "Which members of this group are allowed to invite others?"
+msgstr "Hangi üyeler davetiye gönderebilir?"
+
+#: buddypress/groups/create.php:98
+#: buddypress/groups/single/admin.php:104
+msgid "All group members"
+msgstr "Bütün üyeler"
+
+#: buddypress/groups/create.php:103
+#: buddypress/groups/single/admin.php:109
+msgid "Group admins and mods only"
+msgstr "Yönetici ve modlar"
+
+#: buddypress/groups/create.php:108
+#: buddypress/groups/single/admin.php:114
+msgid "Group admins only"
+msgstr "Sadece yöneticiler"
+
+#: buddypress/groups/create.php:114
+msgid "Group Forums"
+msgstr "Grup Forumları"
+
+#: buddypress/groups/create.php:118
+msgid "Should this group have a forum?"
+msgstr "Bu grubun forumu olsun mu?"
+
+#: buddypress/groups/create.php:121
+#: buddypress/groups/single/admin.php:52
+msgid "Enable discussion forum"
+msgstr "Tartışma forumunu aktif et"
+
+#: buddypress/groups/create.php:125
+#, php-format
+msgid ""
+"<strong>Attention Site Admin:</strong> Group forums require the <a "
+"href=\"%s\">correct setup and configuration</a> of a bbPress installation."
+msgstr ""
+"<strong>Dikkat Site Yöneticisi:</strong> Grup forumlarını etkinleştirmek "
+"için bbPress sürümünü <a href=\"%s\">doğru kurmanız ve ayarlamanız</a> "
+"gerekiyor."
+
+#: buddypress/groups/create.php:155
+#: buddypress/groups/single/admin.php:136
+#: buddypress/members/single/profile/change-avatar.php:18
+msgid "Upload Image"
+msgstr "Resim Yükle"
+
+#: buddypress/groups/create.php:174
+#: buddypress/groups/single/admin.php:162
+#: buddypress/members/single/profile/change-avatar.php:39
+msgid "Crop Image"
+msgstr "Resimi Kes"
+
+#: buddypress/groups/create.php:213
+#: buddypress/groups/single/invites-loop.php:65
+msgid "Select people to invite from your friends list."
+msgstr "Arkadaş listenizde davet etmek istediklerinizi seçiniz."
+
+#: buddypress/groups/create.php:231
+#: buddypress/groups/single/invites-loop.php:36
+#: functions/buddypress-functions.php:1052
+msgid "Remove Invite"
+msgstr "Daveti Sil"
+
+#: buddypress/groups/create.php:270
+msgid "Back to Previous Step"
+msgstr "Önceki Adıma Dön"
+
+#: buddypress/groups/create.php:277
+msgid "Next Step"
+msgstr "Sonraki Adım"
+
+#: buddypress/groups/create.php:284
+msgid "Create Group and Continue"
+msgstr "Grubu Kur ve Devam Et"
+
+#: buddypress/groups/create.php:291
+msgid "Finish"
+msgstr "Bitir"
+
+#: buddypress/groups/groups-loop.php:44
+#: buddypress/groups/single/group-header.php:43
+#, php-format
+msgid "active %s"
+msgstr "%s aktif"
+
+#: buddypress/groups/groups-loop.php:81
+msgid "There were no groups found."
+msgstr "Hiç bir grup bulunamadı."
+
+#: buddypress/groups/index.php:20
+#, php-format
+msgid "All Groups <span>%s</span>"
+msgstr "Bütün Gruplar <span>%s</span>"
+
+#: buddypress/groups/index.php:41
+#: buddypress/members/single/groups.php:23
+msgid "Most Members"
+msgstr "Üye Sayısı"
+
+#: buddypress/groups/index.php:42
+#: buddypress/members/single/groups.php:24
+msgid "Newly Created"
+msgstr "Yeni Kurulan"
+
+#: buddypress/groups/single/admin.php:182
+msgid "Administrators"
+msgstr "Yöneticiler"
+
+#: buddypress/groups/single/admin.php:190
+#: buddypress/groups/single/admin.php:217
+#, php-format
+msgid "Profile picture of %s"
+msgstr "%s profil avatarı"
+
+#: buddypress/groups/single/admin.php:195
+#: buddypress/groups/single/admin.php:222
+msgid "Demote to Member"
+msgstr "Üye Yap"
+
+#: buddypress/groups/single/admin.php:210
+msgid "Moderators"
+msgstr "Moderatörler"
+
+#: buddypress/groups/single/admin.php:221
+#: buddypress/groups/single/admin.php:278
+msgid "Promote to Admin"
+msgstr "Admin Yap"
+
+#: buddypress/groups/single/admin.php:236
+msgid "Members"
+msgstr "Üyeler"
+
+#: buddypress/groups/single/admin.php:266
+msgid "(banned)"
+msgstr "(yasaklı)"
+
+#: buddypress/groups/single/admin.php:272
+msgid "Unban this member"
+msgstr "Üyenin yasağını kaldır"
+
+#: buddypress/groups/single/admin.php:272
+msgid "Remove Ban"
+msgstr "Yasağı Kaldır"
+
+#: buddypress/groups/single/admin.php:276
+msgid "Kick and ban this member"
+msgstr "Üyeyi at ve yasakla"
+
+#: buddypress/groups/single/admin.php:276
+msgid "Kick &amp; Ban"
+msgstr "At &amp; Yasakla"
+
+#: buddypress/groups/single/admin.php:277
+msgid "Promote to Mod"
+msgstr "Moderatör Yap"
+
+#: buddypress/groups/single/admin.php:282
+msgid "Remove this member"
+msgstr "Üyeyi çıkar"
+
+#: buddypress/groups/single/admin.php:282
+msgid "Remove from group"
+msgstr "Gruptan çıkar"
+
+#: buddypress/groups/single/admin.php:297
+#: buddypress/groups/single/members.php:65
+msgid "This group has no members."
+msgstr "Bu grubun henüz bir üyesi yok."
+
+#: buddypress/groups/single/admin.php:331
+msgid ""
+"WARNING: Deleting this group will completely remove ALL content associated "
+"with it. There is no way back, please be careful with this option."
+msgstr ""
+"DİKKAT: Bu grubu silerseniz BÜTÜN paylaşımlar ve içerik tamamiyle "
+"silinecektir. Bu seçeneğin geri dönüşü yoktur."
+
+#: buddypress/groups/single/admin.php:334
+msgid "I understand the consequences of deleting this group."
+msgstr "Evet grubun silinmesi ile alakalı herşeyi anladım."
+
+#: buddypress/groups/single/admin.php:339
+msgid "Delete Group"
+msgstr "Grubu Sil"
+
+#: buddypress/groups/single/forum.php:19
+msgid "New Topic"
+msgstr "Yeni konu"
+
+#: buddypress/groups/single/forum/edit.php:16
+#: buddypress/groups/single/forum/topic.php:17
+#: buddypress/groups/single/forum.php:27
+msgid "Forum Directory"
+msgstr "Forum Dizini"
+
+#: buddypress/groups/single/forum.php:69
+msgid "You will auto join this group when you start a new topic."
+msgstr "Yeni bir konu başlattığınızda bu gruba otomatik olarak katılacaksınız."
+
+#: buddypress/groups/single/forum.php:73
+msgid "Post a New Topic:"
+msgstr "Yeni Bir Konu Başlat:"
+
+#: buddypress/groups/single/group-header.php:11
+msgid "Group Admins"
+msgstr "Grup Yöneticileri"
+
+#: buddypress/groups/single/group-header.php:20
+msgid "Group Mods"
+msgstr "Grup Modları"
+
+#: buddypress/groups/single/home.php:18
+#: buddypress/members/single/home.php:16
+#: templates/footer.php:15
+#: templates/footer.php:34
+#: templates/header.php:39
+#: templates/header.php:57
+msgid "Toggle navigation"
+msgstr "Navigasyonu değiştir"
+
+#: buddypress/groups/single/invites-loop.php:76
+msgid "Send Invites"
+msgstr "Davet Gönder"
+
+#: buddypress/groups/single/request-membership.php:4
+#, php-format
+msgid "You are requesting to become a member of the group '%s'."
+msgstr "'%s' adlı gruba üyelik talebinde bulunuyorsunuz."
+
+#: buddypress/groups/single/request-membership.php:7
+msgid "Comments (optional)"
+msgstr "Yorumlar (opsiyonel)"
+
+#: buddypress/groups/single/request-membership.php:12
+msgid "Send Request"
+msgstr "İstek Gönder"
+
+#: buddypress/groups/single/requests-loop.php:16
+#: buddypress/members/single/friends/requests.php:22
+#: buddypress/members/single/groups/invites.php:24
+msgid "Accept"
+msgstr "Kabul et"
+
+#: buddypress/groups/single/requests-loop.php:18
+#: buddypress/members/single/friends/requests.php:23
+#: buddypress/members/single/groups/invites.php:25
+msgid "Reject"
+msgstr "Reddet"
+
+#: buddypress/groups/single/requests-loop.php:48
+msgid "There are no pending membership requests."
+msgstr "Bekleyen üyelik isteği yok."
+
+#: buddypress/groups/single/forum/edit.php:25
+msgid "Edit:"
+msgstr "Düzenle:"
+
+#: buddypress/groups/single/forum/edit.php:87
+msgid "This topic does not exist."
+msgstr "Bu konu artık yok."
+
+#: buddypress/groups/single/forum/topic.php:9
+msgid "New Reply"
+msgstr "Yeni yanıt"
+
+#: buddypress/groups/single/forum/topic.php:32
+msgid "Topic tags:"
+msgstr "Konu etiketleri:"
+
+#: buddypress/groups/single/forum/topic.php:82
+#, php-format
+msgid "%1$s said %2$s:"
+msgstr "%1$s %2$s demiş ki:"
+
+#: buddypress/groups/single/forum/topic.php:121
+msgid "There are no posts for this topic."
+msgstr "Bu konuya ait yazı yok."
+
+#: buddypress/groups/single/forum/topic.php:136
+msgid "You will auto join this group when you reply to this topic."
+msgstr "Bu konuya cevap verdiğinizde grubuna otomatik olarak katılacaksınız."
+
+#: buddypress/groups/single/forum/topic.php:141
+msgid "Add a reply:"
+msgstr "Bir cevap ekle:"
+
+#: buddypress/groups/single/forum/topic.php:146
+msgid "Post Reply"
+msgstr "Cevap Gönder"
+
+#: buddypress/groups/single/forum/topic.php:157
+msgid "This topic is closed, replies are no longer accepted."
+msgstr "Bu konu kapatılmıştır, yanıtlar kabul edilmemektedir."
+
+#: buddypress/members/activate.php:15
+msgid ""
+"Your account was activated successfully! Your account details have been sent "
+"to you in a separate email."
+msgstr ""
+"Hesabınız başarıyla aktive edildi! Hesap bilgileriniz size ayrı bir e-posta "
+"ile gönderildi."
+
+#: buddypress/members/activate.php:22
+msgid "Please provide a valid activation key."
+msgstr "Lütfen geçerli bir aktivasyon anahtarı giriniz."
+
+#: buddypress/members/activate.php:26
+msgid "Activation Key:"
+msgstr "Aktivasyon Anahtarı:"
+
+#: buddypress/members/activate.php:30
+#: functions/class-tgm-plugin-activation.php:1381
+msgid "Activate"
+msgstr "Aktivasyon"
+
+#: buddypress/members/index.php:39
+#: buddypress/members/single/friends.php:23
+msgid "Newest Registered"
+msgstr "Yeni Kayıt"
+
+#: buddypress/members/members-loop.php:94
+msgid "Sorry, no members were found."
+msgstr "Üzgünüz, hiç üye bulunamadı."
+
+#: buddypress/members/register.php:16
+msgid "User registration is currently not allowed."
+msgstr "Kullanıcı kaydı şu an için devre dışı."
+
+#: buddypress/members/register.php:27
+msgid ""
+"Registering for this site is easy, just fill in the fields below and we'll "
+"get a new account set up for you in no time."
+msgstr ""
+"Bu siteye kaydolmak çok kolaydır, sadece aşağıdaki alanları doldurun ve yeni "
+"hesabınızı kullanıma hazır edin."
+
+#: buddypress/members/register.php:35
+msgid "Account Details"
+msgstr "Hesap Detayları"
+
+#: buddypress/members/register.php:38
+#: buddypress/members/register.php:46
+#: buddypress/members/register.php:55
+#: buddypress/members/register.php:64
+#: buddypress/members/register.php:168
+#: buddypress/members/register.php:185
+#: functions/buddypress-customs.php:370
+#: functions/buddypress-customs.php:417
+#: functions/buddypress-customs.php:453
+#: functions/buddypress-customs.php:500
+#: functions/buddypress-customs.php:540
+#: functions/buddypress-customs.php:574
+#: functions/buddypress-customs.php:609
+#: functions/buddypress-customs.php:643
+#: functions/buddypress-customs.php:678
+msgid "(required)"
+msgstr "(gerekli)"
+
+#: buddypress/members/register.php:46
+msgid "Email Address"
+msgstr "E-posta Adresi"
+
+#: buddypress/members/register.php:55
+msgid "Choose a Password"
+msgstr "Şifre Seçiniz"
+
+#: buddypress/members/register.php:64
+msgid "Confirm Password"
+msgstr "Şifre Tekrarı"
+
+#: buddypress/members/register.php:81
+msgid "Profile Details"
+msgstr "Profil Detayları"
+
+#: buddypress/members/register.php:100
+#: buddypress/members/register.php:117
+#: buddypress/members/single/profile/edit.php:37
+#: buddypress/members/single/profile/edit.php:54
+#, php-format
+msgid "This field can be seen by: <span class=\"current-visibility-level\">%s</span>"
+msgstr ""
+"Bu alan şu kişilere gösterilecektir: <span class=\"current-visibility-level "
+"label\">%s</span>"
+
+#: buddypress/members/register.php:105
+#: buddypress/members/single/profile/edit.php:42
+msgid "Who can see this field?"
+msgstr "Bu alanı kim görebilir?"
+
+#: buddypress/members/register.php:110
+#: buddypress/members/single/profile/edit.php:47
+#: functions/buddypress-customs.php:238
+#: functions/buddypress-functions.php:239
+#: templates/post/gallery/gallery_grid.php:30
+#: templates/post/gallery/gallery_slider.php:45
+#: templates/post/gallery/gallery_tile.php:36
+msgid "Close"
+msgstr "Kapat"
+
+#: buddypress/members/register.php:152
+msgid "Blog Details"
+msgstr "Blog Detayları"
+
+#: buddypress/members/register.php:158
+msgid "Yes, I'd like to create a new site"
+msgstr "Evet, yeni bir site oluşturmak istiyorum"
+
+#: buddypress/members/register.php:168
+msgid "Blog URL"
+msgstr "Blog URL"
+
+#: buddypress/members/register.php:185
+msgid "Site Title"
+msgstr "Site Başlığı"
+
+#: buddypress/members/register.php:195
+msgid ""
+"I would like my site to appear in search engines, and in public listings "
+"around this network."
+msgstr ""
+"Blog sayfam Google ve Technorati gibi arama motorlarında, ayrıca bu sitenin "
+"genel listelerinde görüntülenebilsin."
+
+#: buddypress/members/register.php:199
+msgid "Yes"
+msgstr "Evet"
+
+#: buddypress/members/register.php:200
+msgid "No"
+msgstr "Hayır"
+
+#: buddypress/members/register.php:216
+msgid "Complete Sign Up"
+msgstr "Kaydı Tamamla"
+
+#: buddypress/members/register.php:227
+msgid "Sign Up Complete!"
+msgstr "Kayıt Tamamlandı!"
+
+#: buddypress/members/register.php:233
+msgid ""
+"You have successfully created your account! To begin using this site you "
+"will need to activate your account via the email we have just sent to your "
+"address."
+msgstr ""
+"Hesabınızı başarıyla açtınız! Bu web sayfasından daha fazla faydalanmak için "
+"e-posta hesabınıza gönderilen aktivasyon mesajını kullanarak hesabınızı "
+"etkinleştirin."
+
+#: buddypress/members/register.php:235
+msgid ""
+"You have successfully created your account! Please log in using the username "
+"and password you have just created."
+msgstr ""
+"Hesabınızı başarıyla oluşturdunuz. Şimdi kullanıcı adı ve şifrenizle sisteme "
+"giriş yapabilirsiniz."
+
+#: buddypress/members/single/friends/requests.php:54
+msgid "You have no pending friendship requests."
+msgstr "Bekleyen arkadaşlık isteğiniz yok."
+
+#: buddypress/members/single/groups/invites.php:39
+msgid "You have no outstanding group invites."
+msgstr "Gözden geçirilmemiş grup davetleri kalmadı."
+
+#: buddypress/members/single/messages/compose.php:7
+msgid "Send To (Username or Friend's Name)"
+msgstr "Gönder (Kullanıcı adı ya da Arkadaş Adı)"
+
+#: buddypress/members/single/messages/compose.php:23
+msgid "This is a notice to all users."
+msgstr "Bu tüm üyelere bir duyurudur."
+
+#: buddypress/members/single/messages/compose.php:31
+msgid "Subject"
+msgstr "Konu"
+
+#: buddypress/members/single/messages/compose.php:38
+msgid "Message"
+msgstr "Mesaj"
+
+#: buddypress/members/single/messages/compose.php:55
+msgid "Send Message"
+msgstr "Mesajı Gönder"
+
+#: buddypress/members/single/messages/messages-loop.php:33
+msgid "From:"
+msgstr "Gönderen:"
+
+#: buddypress/members/single/messages/messages-loop.php:38
+msgid "To:"
+msgstr "Kime:"
+
+#: buddypress/members/single/messages/messages-loop.php:44
+msgid "View Message"
+msgstr "Mesaja Bak"
+
+#: buddypress/members/single/messages/messages-loop.php:52
+#: buddypress/members/single/messages/notices-loop.php:44
+#: buddypress/members/single/messages/single.php:25
+msgid "Delete Message"
+msgstr "Mesajı Sil"
+
+#: buddypress/members/single/messages/messages-loop.php:71
+msgid "Sorry, no messages were found."
+msgstr "Üzgünüz, mesaj bulunamadı."
+
+#: buddypress/members/single/messages/notices-loop.php:37
+msgid "Sent:"
+msgstr "Gönderildi:"
+
+#: buddypress/members/single/messages/notices-loop.php:56
+msgid "Sorry, no notices were found."
+msgstr "Üzgünüz, herhangi bir bildirim bulunamadı."
+
+#: buddypress/members/single/messages/single.php:15
+msgid "You are alone in this conversation."
+msgstr "Bu konuşmada yalnızsın."
+
+#: buddypress/members/single/messages/single.php:19
+#, php-format
+msgid "Conversation between %s and you."
+msgstr "%s ile senin arandaki konuşma."
+
+#: buddypress/members/single/messages/single.php:87
+msgid "Send a Reply"
+msgstr "Bir Cevap Yolla"
+
+#: buddypress/members/single/messages/single.php:108
+msgid "Send Reply"
+msgstr "Cevap Yolla"
+
+#: buddypress/members/single/profile/change-avatar.php:14
+msgid ""
+"Click below to select a JPG, GIF or PNG format photo from your computer and "
+"then click 'Upload Image' to proceed."
+msgstr ""
+"JPG, GIF veya PNG formatında bir resim seçtikten sonra yüklemek için 'Resim "
+"Yükle' butonuna tıklayın."
+
+#: buddypress/members/single/profile/edit.php:10
+#, php-format
+msgid "Editing '%s' Profile Group"
+msgstr "'%s' Profil Bilgileri Düzenleniyor"
+
+#: buddypress/members/single/profile/profile-wp.php:24
+msgid "About Me"
+msgstr "Hakkımdada"
+
+#: buddypress/members/single/profile/profile-wp.php:42
+msgid "Jabber"
+msgstr "Jabber"
+
+#: buddypress/members/single/profile/profile-wp.php:51
+msgid "AOL Messenger"
+msgstr "AOL Messenger"
+
+#: buddypress/members/single/profile/profile-wp.php:60
+msgid "Yahoo Messenger"
+msgstr "Yahoo Messenger"
+
+#: buddypress/members/single/settings/capabilities.php:11
+msgid "This user is a spammer."
+msgstr "Bu kullanıcı bir spammer."
+
+#: buddypress/members/single/settings/capabilities.php:15
+msgid "Save"
+msgstr "Kaydet"
+
+#: buddypress/members/single/settings/delete-account.php:9
+msgid ""
+"Deleting your account will delete all of the content you have created. It "
+"will be completely irrecoverable."
+msgstr ""
+"Hesabınızı silmek, yarattığınız tüm içeriği de silecektir. Bu işlemin geri "
+"dönüşü yoktur."
+
+#: buddypress/members/single/settings/delete-account.php:13
+msgid ""
+"Deleting this account will delete all of the content it has created. It will "
+"be completely irrecoverable."
+msgstr ""
+"Bu hesabı silmek, yarattığı tüm içeriği de silecektir. Bu işlemin geri "
+"dönüşü yoktur."
+
+#: buddypress/members/single/settings/delete-account.php:25
+msgid "I understand the consequences."
+msgstr "Sonuçlarını anlıyorum."
+
+#: buddypress/members/single/settings/delete-account.php:29
+msgid "Delete Account"
+msgstr "Hesabı Sil"
+
+#: buddypress/members/single/settings/general.php:9
+msgid ""
+"Current Password <span>(required to update email or change current "
+"password)</span>"
+msgstr ""
+"Şimdiki Şifreniz <span>(e-posta güncelleme ve şifre değiştirme için "
+"gereklidir)</span>"
+
+#: buddypress/members/single/settings/general.php:10
+msgid "Password Lost and Found"
+msgstr "Kayıp Şifre ve Bulma"
+
+#: buddypress/members/single/settings/general.php:10
+msgid "Lost your password?"
+msgstr "Şifrenizi mi kaybettiniz?"
+
+#: buddypress/members/single/settings/general.php:14
+msgid "Account Email"
+msgstr "Hesap E-postası"
+
+#: buddypress/members/single/settings/general.php:17
+msgid "Change Password <span>(leave blank for no change)</span>"
+msgstr "Şifre Değiştir <span>(değişiklik yapmayacaksanız boş bırakın)</span>"
+
+#: buddypress/members/single/settings/general.php:20
+msgid "Repeat New Password"
+msgstr "Yeni Şifre Tekrar"
+
+#: functions/bbpress.php:113
+msgid "No Replies"
+msgstr "Yanıt yok"
+
+#: functions/bbpress.php:143
+msgid "No Topics"
+msgstr "Konu yok"
+
+#: functions/buddypress-customs.php:110
+msgid "Site"
+msgstr "Site"
+
+#: functions/buddypress-customs.php:466
+#: functions/buddypress-customs.php:513
+msgid "Clear"
+msgstr "Temizle"
+
+#: functions/buddypress-functions.php:238
+msgid "Accepted"
+msgstr "Kabul Edildi"
+
+#: functions/buddypress-functions.php:240
+msgid "comments"
+msgstr "yorumlar"
+
+#: functions/buddypress-functions.php:243
+msgid "My Favorites"
+msgstr "Favorilerim"
+
+#: functions/buddypress-functions.php:244
+msgid "Rejected"
+msgstr "Reddedildi"
+
+#: functions/buddypress-functions.php:246
+msgid "Show all"
+msgstr "Hepsini göster"
+
+#: functions/buddypress-functions.php:247
+msgid "Show all comments for this thread"
+msgstr "Bu konudaki tüm yorumları göster"
+
+#: functions/buddypress-functions.php:250
+msgid "View"
+msgstr "Görüntüle"
+
+#: functions/buddypress-functions.php:712
+msgid "Please enter some content to post."
+msgstr "Lütfen göndermek için bir içerik girin."
+
+#: functions/buddypress-functions.php:773
+msgid "Please do not leave the comment area blank."
+msgstr "Lütfen yorum alanını boş bırakmayınız."
+
+#: functions/buddypress-functions.php:776
+#: functions/buddypress-functions.php:785
+msgid "There was an error posting that reply, please try again."
+msgstr "Yanıt yazarken bir hata oluştu, lütfen yeniden deneyin."
+
+#: functions/buddypress-functions.php:846
+#: functions/buddypress-functions.php:882
+msgid "There was a problem when deleting. Please try again."
+msgstr "Silme işlemi sırasında bir hata oluştu. Lütfen tekrar deneyiniz."
+
+#: functions/buddypress-functions.php:1101
+msgid "Friendship could not be canceled."
+msgstr "Arkadaşlık iptal edilmedi."
+
+#: functions/buddypress-functions.php:1103
+#: functions/buddypress-functions.php:1121
+msgid "Add Friend"
+msgstr "Arkadaş Ekle"
+
+#: functions/buddypress-functions.php:1111
+msgid " Friendship could not be requested."
+msgstr " Arkadaşlık isteği gönderilemedi."
+
+#: functions/buddypress-functions.php:1113
+msgid "Cancel Friendship Request"
+msgstr "Arkadaşlık İsteğini İptal Et"
+
+#: functions/buddypress-functions.php:1123
+msgid "Friendship request could not be cancelled."
+msgstr "Arkadaşlık isteği iptal edilemedi."
+
+#: functions/buddypress-functions.php:1128
+msgid "Request Pending"
+msgstr "Başvuru Beklemekte"
+
+#: functions/buddypress-functions.php:1148
+msgid "There was a problem accepting that request. Please try again."
+msgstr "İstek kabul edilirken hata oluştu. Lütfen tekrar deneyiniz."
+
+#: functions/buddypress-functions.php:1167
+msgid "There was a problem rejecting that request. Please try again."
+msgstr "İstek reddedilirken hata oluştu. Lütfen tekrar deneyiniz."
+
+#: functions/buddypress-functions.php:1197
+msgid "Error joining group"
+msgstr "Gruba katılırken hata oluştu"
+
+#: functions/buddypress-functions.php:1199
+#: functions/buddypress-functions.php:1212
+msgid "Leave Group"
+msgstr "Gruptan Çık"
+
+#: functions/buddypress-functions.php:1210
+#: functions/buddypress-functions.php:1220
+msgid "Error requesting membership"
+msgstr "Üyelik isteğinde hata oluştu"
+
+#: functions/buddypress-functions.php:1222
+msgid "Membership Requested"
+msgstr "Üyelik Başvuruldu"
+
+#: functions/buddypress-functions.php:1231
+msgid "Error leaving group"
+msgstr "Gruptan ayrılırken hata oluştu"
+
+#: functions/buddypress-functions.php:1233
+msgid "Join Group"
+msgstr "Gruba Katıl"
+
+#: functions/buddypress-functions.php:1235
+msgid "Request Membership"
+msgstr "Üyelik Talebinde Bulun"
+
+#: functions/buddypress-functions.php:1254
+msgid "There was a problem closing the notice."
+msgstr "Duyuruyu kapatırken hata oluştu."
+
+#: functions/buddypress-functions.php:1300
+#, php-format
+msgid "Sent %s"
+msgstr "%s gönderildi"
+
+#: functions/buddypress-functions.php:1317
+msgid "There was a problem sending that reply. Please try again."
+msgstr "Cevap yazarken hata oluştu. Lütfen tekrar deneyiniz."
+
+#: functions/buddypress-functions.php:1335
+msgid "There was a problem marking messages as unread."
+msgstr "Mesajları okunmadı işaretlerken hata oluştu."
+
+#: functions/buddypress-functions.php:1360
+msgid "There was a problem marking messages as read."
+msgstr "Mesajları okundu işaretlerken hata oluştu."
+
+#: functions/buddypress-functions.php:1385
+msgid "There was a problem deleting messages."
+msgstr "Mesajlar silinirken hata oluştu."
+
+#: functions/buddypress-functions.php:1391
+msgid "Messages deleted."
+msgstr "Mesajlar silindi."
+
+#: functions/class-tgm-plugin-activation.php:164
+#: functions/init.php:476
+msgid "Install Required Plugins"
+msgstr "Gerekli Eklentileri Yükle"
+
+#: functions/class-tgm-plugin-activation.php:165
+#: functions/init.php:477
+msgid "Install Plugins"
+msgstr "Eklentileri Yükle"
+
+#: functions/class-tgm-plugin-activation.php:166
+#: functions/init.php:478
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Yüklenen Eklenti: %s"
+
+#: functions/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr "Birşeyler yanlış gitti."
+
+#: functions/class-tgm-plugin-activation.php:168
+#: functions/init.php:480
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Bu tema için %1$s eklentileri gereklidir."
+msgstr[1] ""
+
+#: functions/class-tgm-plugin-activation.php:169
+#: functions/init.php:481
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Bu tema %1$s eklentilerini öneriyor."
+msgstr[1] ""
+
+#: functions/class-tgm-plugin-activation.php:170
+#, php-format
+msgid "There is a new update for %1$s."
+msgid_plural "There are several plugins updates available %1$s."
+msgstr[0] "%1$s için güncelleme var."
+msgstr[1] ""
+
+#: functions/class-tgm-plugin-activation.php:171
+#: functions/init.php:482
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s plugins."
+" Contact the administrator of this site for help on getting the plugins "
+"installed."
+msgstr[0] ""
+"%s eklentisini kurmak için yetkiniz yok. Site yöneticisi ile irtibata "
+"geçiniz."
+msgstr[1] ""
+
+#: functions/class-tgm-plugin-activation.php:172
+#: functions/init.php:483
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Bazı gerekli eklentiler şu an aktif değil: %1$s."
+msgstr[1] ""
+
+#: functions/class-tgm-plugin-activation.php:173
+#: functions/init.php:484
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Önerilen bazı eklentiler şu an aktif değil: %1$s."
+msgstr[1] ""
+
+#: functions/class-tgm-plugin-activation.php:174
+#: functions/init.php:485
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s plugin."
+" Contact the administrator of this site for help on getting the plugin "
+"activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+"%s eklentisini etkinleştirmek için yetkiniz yok. Site yöneticisi ile "
+"irtibata geçiniz."
+msgstr[1] ""
+
+#: functions/class-tgm-plugin-activation.php:175
+#: functions/init.php:486
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] "Şu eklentilerin güncellenmesi gerekiyor: %1$s."
+msgstr[1] ""
+
+#: functions/class-tgm-plugin-activation.php:176
+#: functions/init.php:487
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+"%s eklentisini güncelleştirmek için yetkiniz yok. Site yöneticisi ile "
+"irtibata geçiniz."
+msgstr[1] ""
+
+#: functions/class-tgm-plugin-activation.php:177
+#: functions/init.php:488
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Eklenti yüklemeye başla"
+msgstr[1] ""
+
+#: functions/class-tgm-plugin-activation.php:178
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Eklenti güncellemeye başla"
+msgstr[1] ""
+
+#: functions/class-tgm-plugin-activation.php:179
+#: functions/init.php:489
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] "Yüklenmiş eklentileri etkinleştir"
+msgstr[1] ""
+
+#: functions/class-tgm-plugin-activation.php:180
+#: functions/class-tgm-plugin-activation.php:510
+#: functions/init.php:490
+msgid "Return to Required Plugins Installer"
+msgstr "Gerekli Eklentiler Yükleyicisine dön"
+
+#: functions/class-tgm-plugin-activation.php:181
+#: functions/class-tgm-plugin-activation.php:1908
+#: functions/init.php:491
+msgid "Plugin activated successfully."
+msgstr "Eklenti başarıyla etkinleştirildi."
+
+#: functions/class-tgm-plugin-activation.php:182
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Tüm eklentiler yüklendi ve başarıyla etkinleştirildi. %1$s"
+
+#: functions/class-tgm-plugin-activation.php:537
+#: functions/class-tgm-plugin-activation.php:2120
+msgid "Return to the Dashboard"
+msgstr "Yönetim Paneline dön"
+
+#: functions/class-tgm-plugin-activation.php:565
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr "Bu eklenti başarıyla etkinleştirildi: %s."
+
+#: functions/class-tgm-plugin-activation.php:738
+msgid "Dismiss this notice"
+msgstr "Bu bildirimi kapat"
+
+#: functions/class-tgm-plugin-activation.php:1125
+msgid "External Link"
+msgstr "Dış Bağlantı"
+
+#: functions/class-tgm-plugin-activation.php:1130
+msgid "Private Repository"
+msgstr "Özel Veri Havuzu"
+
+#: functions/class-tgm-plugin-activation.php:1133
+msgid "Pre-Packaged"
+msgstr "Önceden paketlenmiş"
+
+#: functions/class-tgm-plugin-activation.php:1137
+msgid "WordPress Repository"
+msgstr "WordPress Veri Havuzu"
+
+#: functions/class-tgm-plugin-activation.php:1140
+msgid "Required"
+msgstr "Gerekli"
+
+#: functions/class-tgm-plugin-activation.php:1140
+msgid "Recommended"
+msgstr "Önerilen"
+
+#: functions/class-tgm-plugin-activation.php:1143
+msgid "Not Installed"
+msgstr "Yüklenmemiş"
+
+#: functions/class-tgm-plugin-activation.php:1145
+msgid "Installed But Not Activated"
+msgstr "Yüklü ama aktif değil"
+
+#: functions/class-tgm-plugin-activation.php:1147
+msgid "Not Updated"
+msgstr "Güncel Değil"
+
+#: functions/class-tgm-plugin-activation.php:1149
+msgid "Active"
+msgstr "Aktif"
+
+#: functions/class-tgm-plugin-activation.php:1343
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"Yüklemek veya etkinleştirmek için hiçbir eklenti yok.  <a href=\"%1$s\" "
+"title=\"Yönetim Paneline Dön\">Yönetim Paneline Dön</a>"
+
+#: functions/class-tgm-plugin-activation.php:1359
+msgid "Plugin"
+msgstr "Eklenti"
+
+#: functions/class-tgm-plugin-activation.php:1360
+msgid "Source"
+msgstr "Kaynak"
+
+#: functions/class-tgm-plugin-activation.php:1361
+msgid "Type"
+msgstr "Tür"
+
+#: functions/class-tgm-plugin-activation.php:1362
+msgid "Status"
+msgstr "Durum"
+
+#: functions/class-tgm-plugin-activation.php:1380
+msgid "Install"
+msgstr "Yükle"
+
+#: functions/class-tgm-plugin-activation.php:1606
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Aşağıdaki eklenti başarıyla etkinleştirildi:"
+msgstr[1] ""
+
+#: functions/class-tgm-plugin-activation.php:1891
+msgid "Install package not available."
+msgstr "Yüklemek paketi uygun değil."
+
+#: functions/class-tgm-plugin-activation.php:1892
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr "Yükleme paketi indiriliyor: <span class=\"code\">%s</span>&#8230;"
+
+#: functions/class-tgm-plugin-activation.php:1893
+msgid "Unpacking the package&#8230;"
+msgstr "Paket açılıyor&#8230;"
+
+#: functions/class-tgm-plugin-activation.php:1894
+msgid "Installing the plugin&#8230;"
+msgstr "Eklenti yükleniyor&#8230;"
+
+#: functions/class-tgm-plugin-activation.php:1895
+msgid "Plugin install failed."
+msgstr "Eklenti yükleme başarısız oldu."
+
+#: functions/class-tgm-plugin-activation.php:1896
+msgid "Plugin installed successfully."
+msgstr "Eklenti başarıyla yüklendi."
+
+#: functions/class-tgm-plugin-activation.php:1907
+msgid "Plugin activation failed."
+msgstr "Eklenti etkinleştirme başarısız oldu."
+
+#: functions/class-tgm-plugin-activation.php:2017
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Kurulum ve etkinleştirme işlemi başlıyor. Bu süreç bazı sunucularda biraz "
+"zaman alabilir, bu yüzden lütfen sabırlı olun."
+
+#: functions/class-tgm-plugin-activation.php:2018
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s yüklendi ve başarıyla etkinleştirildi."
+
+#: functions/class-tgm-plugin-activation.php:2018
+#: functions/class-tgm-plugin-activation.php:2027
+msgid "Show Details"
+msgstr "Ayrıntıları Göster"
+
+#: functions/class-tgm-plugin-activation.php:2018
+#: functions/class-tgm-plugin-activation.php:2027
+msgid "Hide Details"
+msgstr "Ayrıntıları Gizle"
+
+#: functions/class-tgm-plugin-activation.php:2019
+msgid "All installations and activations have been completed."
+msgstr "Tüm yükleme ve etkinleştirmeler tamamlanmıştır."
+
+#: functions/class-tgm-plugin-activation.php:2020
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Yükleme ve Eklenti etkinleştirme  %1$s (%2$d/%3$d)"
+
+#: functions/class-tgm-plugin-activation.php:2024
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Yükleme işlemi başlıyor. Bu süreç bazı sunucularda biraz zaman alabilir, bu "
+"yüzden lütfen sabırlı olun."
+
+#: functions/class-tgm-plugin-activation.php:2025
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Yüklerken bir hata oluştu %1$s: <strong>%2$s</strong>."
+
+#: functions/class-tgm-plugin-activation.php:2026
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "%1$s yüklemesi başarısız"
+
+#: functions/class-tgm-plugin-activation.php:2027
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s başarıyla yüklendi."
+
+#: functions/class-tgm-plugin-activation.php:2028
+msgid "All installations have been completed."
+msgstr "Tüm yüklemeler tamamlandı."
+
+#: functions/class-tgm-plugin-activation.php:2029
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Eklenti Yükleniyor %1$s (%2$d/%3$d)"
+
+#: functions/custom-custom-css.php:15
+msgid "Custom Css"
+msgstr "Özel Css"
+
+#: functions/custom-custom-css.php:21
+msgid ""
+"You can change your site's appearance with custom css but if you are not "
+"sure what you doing, please ask for support"
+msgstr ""
+"Sitenizin dış görünüşünü özel css kodları ile değiştirebilirsiniz fakat "
+"css'i bilmiyorsanız lütfen destek isteyiniz"
+
+#: functions/custom-custom-css.php:22
+msgid "Be Careful!"
+msgstr "Dikkat!"
+
+#: functions/customizer-call.php:76
+msgid "Amelia"
+msgstr "Amelia"
+
+#: functions/customizer-call.php:77
+msgid "Cerulean"
+msgstr "Cerulean"
+
+#: functions/customizer-call.php:78
+msgid "Cosmo"
+msgstr "Cosmo"
+
+#: functions/customizer-call.php:79
+msgid "Cyborg"
+msgstr "Cyborg"
+
+#: functions/customizer-call.php:81
+#: functions/customizer.php:314
+#: functions/customizer.php:335
+#: functions/showcase.php:259
+msgid "Default"
+msgstr "Varsayılan"
+
+#: functions/customizer-call.php:82
+msgid "Flatly"
+msgstr "Flatly"
+
+#: functions/customizer-call.php:83
+msgid "Journal"
+msgstr "Journal"
+
+#: functions/customizer-call.php:86
+msgid "Readable"
+msgstr "Readable"
+
+#: functions/customizer-call.php:88
+msgid "Simplex"
+msgstr "Simplex"
+
+#: functions/customizer-call.php:89
+msgid "Slate"
+msgstr "Slate"
+
+#: functions/customizer-call.php:90
+msgid "Spacelab"
+msgstr "Spacelab"
+
+#: functions/customizer-call.php:92
+msgid "United"
+msgstr "United"
+
+#: functions/customizer-call.php:93
+msgid "Yeti"
+msgstr "Yeti"
+
+#: functions/customizer.php:86
+msgid "Logo"
+msgstr "Logo"
+
+#: functions/customizer.php:91
+msgid "You can upload logo for your site."
+msgstr "Sitenize logo yükleyebilirsiniz"
+
+#: functions/customizer.php:102
+msgid ""
+"Please decide your preferred <strong>Theme Style</strong> under "
+"<strong>Appearance</strong> first. Then you can change small color options "
+"here."
+msgstr ""
+"Lütfen önce strong>Görünüm</strong> sekmesi altında olan tercih ettiğiniz "
+"tema stilini belirleyin. Daha sonra renk ayarlarını buradan yapabilirsiniz."
+
+#: functions/customizer.php:114
+msgid "Site Title Color"
+msgstr "Site Başlığı Rengi"
+
+#: functions/customizer.php:128
+msgid ""
+"If you are not using logo, you can change your site title's color from this "
+"option."
+msgstr ""
+"Eğer logo kullanmıyorsanız, bu seçenek ile site başlığınızın rengini "
+"değiştirbilirsiniz."
+
+#: functions/customizer.php:138
+msgid "Category / Tag Color"
+msgstr "Kategori / Etiket Rengi"
+
+#: functions/customizer.php:152
+msgid "You can change your categories and taxonomies color from this option."
+msgstr "Bu seçenek ile kategori ve etiketlerinizin rengini değiştirebilirsiniz."
+
+#: functions/customizer.php:160
+msgid "Appearance"
+msgstr "Görünüm"
+
+#: functions/customizer.php:173
+msgid "Font"
+msgstr "Yazı Tipi"
+
+#: functions/customizer.php:180
+msgid "You can change your site's font"
+msgstr "Sitenizin yazı tipini değiştirebilirsiniz"
+
+#: functions/customizer.php:191
+msgid "Header Font"
+msgstr "Başlık Yazı Tipi"
+
+#: functions/customizer.php:198
+msgid "You can optionally use different font in your site's headers."
+msgstr "Site başlığında farklı bir yazı tipi kullanabilirsiniz."
+
+#: functions/customizer.php:208
+msgid "Layout"
+msgstr "Site Düzeni"
+
+#: functions/customizer.php:212
+msgid "Content - Sidebar"
+msgstr "İçerik - Site Kenarı"
+
+#: functions/customizer.php:213
+msgid "Sidebar - Content"
+msgstr "Site Kenarı - İçerik"
+
+#: functions/customizer.php:214
+msgid "Only Content. No sidebar (Short)"
+msgstr "Sade İçerik. Site Kenarı Yok (Kısa)"
+
+#: functions/customizer.php:215
+msgid "Only Content. No sidebar (Long)"
+msgstr "Sade İçerik. Site Kenarı Yok (Uzun)"
+
+#: functions/customizer.php:219
+msgid "You can change your site's layout."
+msgstr "Site düzenini değiştirebilirsiniz"
+
+#: functions/customizer.php:231
+msgid "Theme Style"
+msgstr "Tema Stili"
+
+#: functions/customizer.php:240
+msgid "You can change your site's style."
+msgstr "Sitenizin görünüm stilini değiştirebilirsiniz."
+
+#: functions/customizer.php:252
+msgid "Theme Settings"
+msgstr "Tema Ayarları"
+
+#: functions/customizer.php:263
+msgid "Loop Style"
+msgstr "Liste Stili"
+
+#: functions/customizer.php:268
+#: functions/customizer.php:274
+msgid "Vertical List"
+msgstr "Dikey Liste"
+
+#: functions/customizer.php:269
+#: functions/customizer.php:276
+msgid "Vertical List (Excerpt)"
+msgstr "Dikey Liste (Özet)"
+
+#: functions/customizer.php:270
+#: functions/customizer.php:278
+msgid "Multi-Column List (Excerpt)"
+msgstr "Çoklu Sütun Liste (Özet)"
+
+#: functions/customizer.php:275
+msgid "Content will list one by one"
+msgstr "İçerik teker teker gösterilir"
+
+#: functions/customizer.php:277
+msgid "Content's excerpt will list one by one"
+msgstr "İçeriğin özeti teker teker gösterilir."
+
+#: functions/customizer.php:279
+#, php-format
+msgid "Content's excerpt will list vertically (%s in each row)"
+msgstr "İçerik dikey olarak her sırada %s adet gösterilir"
+
+#: functions/customizer.php:291
+msgid "Make fixed. No responsive"
+msgstr "Sabit yap. Esneklik olmasın."
+
+#: functions/customizer.php:297
+msgid ""
+"Responsive feature have special display style for different devices (from "
+"desktop computer monitors to mobile phones). This will remove responsive "
+"feature so your site will have same display in all devices."
+msgstr ""
+"Esneklik özelliği sitenizi kullanılan aygıtın ekranına göre ayarlar (cep "
+"telefonundan masaüstü bilgisayara kadar). Bu özelliği kaldırırsanız siteniz "
+"bütün aygıtlarda aynı görüntülenecektir."
+
+#: functions/customizer.php:309
+msgid "Main Menu Style"
+msgstr "Ana Menü Stili"
+
+#: functions/customizer.php:315
+#: functions/customizer.php:336
+msgid "Alternative"
+msgstr "Alternatif"
+
+#: functions/customizer.php:316
+#: functions/customizer.php:337
+msgid "Simple"
+msgstr "Basit"
+
+#: functions/customizer.php:320
+#: functions/customizer.php:341
+msgid "If you are using menus, you can change menu style with this option"
+msgstr "Bu seçenek ile menü stilini belirleyebilirsiniz."
+
+#: functions/customizer.php:330
+msgid "Footer Menu Style"
+msgstr "Alt Menü Stili"
+
+#: functions/customizer.php:350
+msgid "Dont make menu automatically open when hover"
+msgstr "Menüler üzerine gelince otomatik açılmasın"
+
+#: functions/customizer.php:356
+msgid ""
+"You can disable dropdown menus automatically open when you hover.<br /> "
+"<span class=\"label label-warning\"><i class=\"icon-exclamation-sign\"></i> Be "
+"careful:</span> Parent menu item will only work for opening dropdown menu "
+"and won't work like a link"
+msgstr ""
+"Otomatik açılır menüleri etkisizleştirebilirsiniz. <br /> <span class=\"label "
+"label-warning\"><i class=\"icon-exclamation-sign\"></i> Dikkat:</span> Ana menü "
+"sadece açılır menüyü açacak, normal bir bağlantı gibi çalışmayacaktır."
+
+#: functions/customizer.php:363
+msgid "You can create or manage menus from Menus page under Appearance"
+msgstr ""
+"Yönetim panelinizde Görünüm'ün altındaki Menüler bölümünden sitenizdeki "
+"menüleri yönetebilirsiniz"
+
+#: functions/customizer.php:363
+msgid "Menus"
+msgstr "Menüler"
+
+#: functions/fix.php:173
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Günlük Arşiv: %s"
+
+#: functions/fix.php:175
+#: functions/fix.php:180
+#: functions/fix.php:185
+#: functions/fix.php:189
+#: functions/fix.php:195
+#: templates/bbpress.php:12
+#, php-format
+msgid "%s. page"
+msgstr "%s. sayfa"
+
+#: functions/fix.php:178
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Aylık Arşiv: %s"
+
+#: functions/fix.php:178
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: functions/fix.php:183
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Yıllık Arşiv: %s"
+
+#: functions/fix.php:183
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: functions/fix.php:188
+#, php-format
+msgid "All posts by %s"
+msgstr "%s yazıları"
+
+#: functions/fix.php:259
+#, php-format
+msgid "Page %s"
+msgstr "Sayfa %s"
+
+#: functions/init.php:8
+msgid ""
+"Free responsive WordPress theme with Buddypress and bbPress supports. Have 4 "
+"different layout: content-sidebar,sidebar-content, full content (long), full "
+"content(short). 13 different theme styles, Google Fonts, logo upload "
+"abilities. Unique 2 feature builtin: Promotion Bar and ShowCase. All options "
+"are using WordPress Theme Customizer feature so you can watch changes live! "
+"Designers: This theme built on Twitter Bootstrap, have 0 custom css code and "
+"using template_part system so you can easily use it as parent theme! You can "
+"find detailed information, showcase, live demo, tips and tricks about theme "
+"in: http://theme.firmasite.com/"
+msgstr ""
+"FirmaSite esnek bir temadır. 4 çeşit görünüm seçeneği, 13 değişik tema stili,"
+" yüzlerce yazı tipi, logo yükleme özelliği ve daha fazlası !"
+
+#: functions/init.php:22
+msgid "Main Menu"
+msgstr "Ana Menü"
+
+#: functions/init.php:26
+msgid "Footer Menu"
+msgstr "Site Altı Menüsü"
+
+#: functions/init.php:58
+msgid "Sidebar"
+msgstr "Site Kenarı"
+
+#: functions/init.php:59
+msgid "Widgets that shows in sidebar"
+msgstr "Site kenarında görünen bileşenler"
+
+#: functions/init.php:67
+msgid "Footer"
+msgstr "Site Altı"
+
+#: functions/init.php:68
+msgid "Widgets that shows in footer"
+msgstr "Site altında görünen bileşenler"
+
+#: functions/init.php:479
+msgid "Something went wrong with the plugin API."
+msgstr "Eklenti API'si ile ilgili birşeyler yanlış gitti."
+
+#: functions/init.php:492
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Tüm eklentiler yüklendi ve başarıyla etkinleştirildi. %s"
+
+#: functions/promotionbar.php:165
+#: functions/promotionbar.php:178
+msgid "Add to PromotionBar"
+msgstr "Tanıtım Barı'na Ekle"
+
+#: functions/promotionbar.php:267
+msgid "Promotion Bar"
+msgstr "Tanıtım Barı"
+
+#: functions/promotionbar.php:268
+#: functions/showcase.php:235
+msgid "These settings will activate when you save changes and refresh this page."
+msgstr ""
+"Bu bölümdeki ayarlar, siz değişiklikleri kaydedip sayfayı yeniledikten sonra "
+"aktif olacaktır."
+
+#: functions/promotionbar.php:287
+msgid "Title"
+msgstr "Başlık"
+
+#: functions/promotionbar.php:293
+msgid ""
+"If you leave it empty, it wont show title. Example titles: <b>Editor's "
+"Choice</b>, <b>Must Read List</b> "
+msgstr ""
+"Boş bırakırsanız, başlık gösterilmeyecektir. Örnek başlıklar: <b>Editör'ün "
+"Seçimi</b>, <b>Okunması Gerekenler</b>"
+
+#: functions/promotionbar.php:302
+msgid "Where do you want to show Promotion Bar?"
+msgstr "Tanıtım Barı'nı nerede göstermek istiyorsunuz?"
+
+#: functions/promotionbar.php:307
+msgid "Only Home Page"
+msgstr "Sadece Ana Sayfa'da"
+
+#: functions/promotionbar.php:308
+msgid "All Site"
+msgstr "Bütün Sitede"
+
+#: functions/promotionbar.php:319
+msgid "Which location do you want to show Promotion Bar?"
+msgstr "Tanıtım Barı'nın gösterim yeri neresi olsun?"
+
+#: functions/promotionbar.php:324
+msgid "Before Content"
+msgstr "İçerik'ten önce"
+
+#: functions/promotionbar.php:325
+msgid "In Site Footer"
+msgstr "Site Altında"
+
+#: functions/promotionbar.php:326
+msgid "In top of Sidebar"
+msgstr "Site Kenarında"
+
+#: functions/promotionbar.php:327
+msgid "In bottom of Sidebar"
+msgstr "Site Kenarının altında"
+
+#: functions/shortcodes.php:84
+#, php-format
+msgid "This gallery contains %1$s photo."
+msgid_plural "This gallery contains %1$s photos."
+msgstr[0] "Bu galeride %1$s fotoğraf bulunmaktadır."
+msgstr[1] ""
+
+#: functions/showcase.php:133
+#: functions/showcase.php:146
+msgid "Add to ShowCase"
+msgstr "Vitrin'e Ekle"
+
+#: functions/showcase.php:234
+msgid "ShowCase"
+msgstr "Vitrin"
+
+#: functions/showcase.php:255
+msgid "ShowCase Style"
+msgstr "Vitrin Stili"
+
+#: functions/showcase.php:260
+msgid "Bigger"
+msgstr "Daha Büyük"
+
+#: functions/showcase.php:270
+msgid "Call-to-Action Text"
+msgstr "Eylem Çağrısı Yazısı"
+
+#: functions/showcase.php:276
+msgid "Current Call-to-Action text: "
+msgstr "Şu an kullanılan Eylem Çağrısı yazısı:"
+
+#: functions/showcase.php:280
+#: templates/bbpress.php:19
+#: templates/post/loop_excerpt/loop-image.php:22
+#: templates/post/loop_excerpt/loop.php:25
+#: templates/post/loop_list/loop-aside.php:17
+#: templates/post/loop_list/loop-audio.php:17
+#: templates/post/loop_list/loop-chat.php:17
+#: templates/post/loop_list/loop-gallery.php:18
+#: templates/post/loop_list/loop-image.php:22
+#: templates/post/loop_list/loop-link.php:25
+#: templates/post/loop_list/loop-quote.php:17
+#: templates/post/loop_list/loop-status.php:17
+#: templates/post/loop_list/loop.php:21
+#: templates/post/loop_tile/loop.php:22
+#: templates/post/promotionbar/loop.php:17
+#: templates/post/showcase/loop.php:23
+#: templates/post/single.php:19
+#: templates/single-page.php:22
+#: templates/single_full-page.php:23
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Devamını Oku <span class=\"meta-nav\">&rarr;</span>"
+
+#: functions/showcase.php:283
+msgid ""
+"If you are planning to use multiple ShowCase posts, try to choose a common "
+"text"
+msgstr ""
+"Eğer birden fazla vitrin gösterecekseniz, hepsine anlamlı olan bir yazı "
+"seçiniz"
+
+#: functions/showcase.php:284
+msgid "For example:"
+msgstr "Örneğin:"
+
+#: functions/showcase.php:285
+msgid "Click for more details"
+msgstr "Detaylı bilgi için tıklayın"
+
+#: functions/showcase.php:293
+msgid "Disable ShowCase feature"
+msgstr "Vitrin özelliğini Kapat"
+
+#: functions/showcase.php:304
+msgid "ShowCase is displaying in your home page only."
+msgstr "Vitrin sadece ana sayfanızda gösterilmektedir."
+
+#: functions/template-tags.php:38
+msgctxt "Next post link"
+msgid "<i class=\"icon-arrow-right\"></i>"
+msgstr "<i class=\"icon-arrow-right\"></i>"
+
+#: functions/template-tags.php:39
+msgctxt "Previous post link"
+msgid "<i class=\"icon-arrow-left\"></i>"
+msgstr "<i class=\"icon-arrow-left\"></i>"
+
+#: functions/template-tags.php:85
+msgid "Pingback:"
+msgstr "Geri Besleme:"
+
+#: functions/template-tags.php:85
+#: functions/template-tags.php:102
+msgid "<span class=\"edit-link\"><span class=\"icon-edit\"></span> Edit</span>"
+msgstr "<span class=\"edit-link\"><span class=\"icon-edit\"></span> Düzenle</span>"
+
+#. translators: 1: date, 2: time
+#: functions/template-tags.php:100
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%2$s'de %1$s"
+
+#: functions/template-tags.php:106
+msgid "Your comment is awaiting moderation."
+msgstr "Yorumunuz kontrol için beklemededir."
+
+#: functions/template-tags.php:112
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">dedi ki:</span>"
+
+#: templates/bbpress.php:9
+#: templates/post/loop_excerpt/loop-gallery.php:17
+#: templates/post/loop_excerpt/loop-image.php:18
+#: templates/post/loop_excerpt/loop.php:18
+#: templates/post/loop_list/loop-gallery.php:17
+#: templates/post/loop_list/loop-image.php:18
+#: templates/post/loop_list/loop-link.php:21
+#: templates/post/loop_list/loop.php:18
+#: templates/post/loop_tile/loop.php:16
+#: templates/post/single.php:12
+#: templates/single-page.php:15
+#: templates/single_full-page.php:16
+#, php-format
+msgid "Permalink to %s"
+msgstr "%s sayfası"
+
+#: templates/bbpress.php:23
+#: templates/post/loop_excerpt/loop-gallery.php:22
+#: templates/post/loop_excerpt/loop-image.php:27
+#: templates/post/loop_excerpt/loop.php:31
+#: templates/post/loop_list/loop-aside.php:20
+#: templates/post/loop_list/loop-audio.php:20
+#: templates/post/loop_list/loop-chat.php:20
+#: templates/post/loop_list/loop-gallery.php:22
+#: templates/post/loop_list/loop-image.php:27
+#: templates/post/loop_list/loop-link.php:28
+#: templates/post/loop_list/loop-quote.php:20
+#: templates/post/loop_list/loop-status.php:20
+#: templates/post/loop_list/loop.php:25
+#: templates/post/loop_tile/loop.php:28
+#: templates/post/promotionbar/loop.php:21
+#: templates/post/single.php:23
+#: templates/single-page.php:26
+#: templates/single_full-page.php:27
+msgid "Permalink"
+msgstr "Kalıcı Bağlantı"
+
+#: templates/footer.php:52
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: templates/footer.php:52
+#, php-format
+msgid "Proudly powered by %s"
+msgstr "%s gururla sunar"
+
+#: templates/footer.php:55
+msgid "Theme:"
+msgstr "Tasarım:"
+
+#: templates/no-results.php:13
+msgid "Nothing Found"
+msgstr "Hiçbir Şey Bulunamadı"
+
+#: templates/no-results.php:19
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "İlk yazınızı yayınlamaya hazır mısınız? <a href=\"%1$s\">Buradan başlayın</a>."
+
+#: templates/no-results.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Üzgünüz, aradığınız kriterlere uygun içerik bulunamadı. Lütfen daha değişik "
+"kriterlerle tekrar deneyin."
+
+#: templates/no-results.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "Aradığınız şeyi bulamıyoruz."
+
+#: templates/post/loop_excerpt/loop.php:28
+#: templates/post/loop_list/loop-aside.php:18
+#: templates/post/loop_list/loop-audio.php:18
+#: templates/post/loop_list/loop-chat.php:18
+#: templates/post/loop_list/loop-link.php:26
+#: templates/post/loop_list/loop-quote.php:18
+#: templates/post/loop_list/loop-status.php:18
+#: templates/post/loop_list/loop.php:22
+#: templates/post/single.php:20
+#: templates/single-page.php:23
+#: templates/single_full-page.php:24
+msgid "Pages:"
+msgstr "Sayfalar:"
+
+#: templates/post/loop_list/loop-gallery.php:43
+#: templates/post/loop_list/loop-image.php:47
+#: templates/post/loop_list/loop.php:47
+msgid "Leave a comment"
+msgstr "Yorum Gönderin"
+
+#: templates/post/loop_list/loop-gallery.php:43
+#: templates/post/loop_list/loop-image.php:47
+#: templates/post/loop_list/loop.php:47
+msgid "1 Comment"
+msgstr "1 Yorum"
+
+#: templates/post/loop_list/loop-gallery.php:43
+#: templates/post/loop_list/loop-image.php:47
+#: templates/post/loop_list/loop.php:47
+msgid "% Comments"
+msgstr "% Yorum"
